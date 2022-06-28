@@ -1,0 +1,43 @@
+{
+	"name": "ObjetoLuna",
+	"plugin-id": "Sprite",
+	"sid": 505724024566059,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Tweeninterpolación",
+			"sid": 157533364361501
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 91,
+						"height": 91,
+						"originX": 0.4835164835164835,
+						"originY": 0.6593406593406593,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5398958,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 964521062824216,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

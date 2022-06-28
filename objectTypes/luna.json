@@ -1,0 +1,20 @@
+{
+	"name": "Luna",
+	"plugin-id": "shadowlight",
+	"sid": 661715984050791,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Tweeninterpolación",
+			"sid": 154278619312437
+		},
+		{
+			"behaviorId": "Pin",
+			"name": "Pegado",
+			"sid": 961940630274574
+		}
+	],
+	"effectTypes": []
+}

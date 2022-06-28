@@ -1,0 +1,24 @@
+{
+	"name": "Castillo",
+	"plugin-id": "Sprite",
+	"sid": 488287626609492,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Sólido",
+			"sid": 586160460857695
+		},
+		{
+			"behaviorId": "shadowcaster",
+			"name": "ProyectorDeSombras",
+			"sid": 647489482027813
+		}
+	],
+	"effectTypes": [],
+	"members": [
+		"MuroCuadrado",
+		"Muro",
+		"Torre"
+	]
+}

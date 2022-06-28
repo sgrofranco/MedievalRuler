@@ -1,0 +1,43 @@
+{
+	"name": "ObjetoSol",
+	"plugin-id": "Sprite",
+	"sid": 593088686009686,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Tweeninterpolación",
+			"sid": 767610624840204
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 97,
+						"height": 89,
+						"originX": 0.5463917525773195,
+						"originY": 0.6067415730337079,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9133260,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 419342210866057,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

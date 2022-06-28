@@ -1,0 +1,26 @@
+{
+	"name": "noche",
+	"plugin-id": "TiledBg",
+	"sid": 939923977489280,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Tweeninterpolación",
+			"sid": 214466175688175
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 250,
+		"height": 250,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "png",
+		"exportQuality": 0.8,
+		"imageSpriteId": 8013396,
+		"useCollisionPoly": true
+	}
+}

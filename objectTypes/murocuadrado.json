@@ -1,0 +1,49 @@
+{
+	"name": "MuroCuadrado",
+	"plugin-id": "Sprite",
+	"sid": 533413988725591,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 178,
+						"height": 178,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6520675,
+						"collisionPoly": {
+							"points": [
+								0.07865168539325845,
+								0.05337078651685393,
+								0.910112359550562,
+								0.05898876404494382,
+								0.9129213483146071,
+								0.9494382022471912,
+								0.08426966292134835,
+								0.9466292134831461
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 527758790827586,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,1248 @@
+{
+	"name": "Hoja de eventos 1",
+	"events": [
+		{
+			"eventType": "variable",
+			"name": "Hora",
+			"type": "number",
+			"initialValue": "0",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 504604656082377
+		},
+		{
+			"eventType": "variable",
+			"name": "cantidadDeArboles",
+			"type": "number",
+			"initialValue": "0",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 578526764726012
+		},
+		{
+			"eventType": "group",
+			"disabled": false,
+			"title": "Dia/noche",
+			"description": "",
+			"isActiveOnStart": true,
+			"children": [
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-start-of-layout",
+							"objectClass": "System",
+							"sid": 365910531672682
+						}
+					],
+					"actions": [
+						{
+							"id": "pin-to-object-properties",
+							"objectClass": "Sol",
+							"sid": 776624793578278,
+							"behaviorType": "Pegado",
+							"parameters": {
+								"pin-to": "ObjetoSol",
+								"x": true,
+								"y": true,
+								"angle": true,
+								"width-type": "no",
+								"height-type": "no",
+								"z": false
+							}
+						},
+						{
+							"id": "pin-to-object-properties",
+							"objectClass": "Luna",
+							"sid": 163917196425301,
+							"behaviorType": "Pegado",
+							"parameters": {
+								"pin-to": "ObjetoLuna",
+								"x": true,
+								"y": true,
+								"angle": true,
+								"width-type": "no",
+								"height-type": "no",
+								"z": false
+							}
+						},
+						{
+							"id": "tween-two-properties",
+							"objectClass": "ObjetoLuna",
+							"sid": 907514175272911,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "position",
+								"end-x": "11520 + 500",
+								"end-y": "-750",
+								"time": "8",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						}
+					],
+					"sid": 638032881540114
+				},
+				{
+					"functionName": "Anochecer",
+					"functionDescription": "",
+					"functionCategory": "",
+					"functionReturnType": "none",
+					"functionIsAsync": false,
+					"functionParameters": [],
+					"eventType": "function-block",
+					"conditions": [],
+					"actions": [
+						{
+							"id": "tween-one-property",
+							"objectClass": "noche",
+							"sid": 320445884963527,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "offsetOpacity",
+								"end-value": "50",
+								"time": "2",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						},
+						{
+							"id": "tween-one-property",
+							"objectClass": "Sol",
+							"sid": 390204472965742,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "offsetOpacity",
+								"end-value": "0",
+								"time": "2",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						},
+						{
+							"id": "tween-one-property",
+							"objectClass": "Luna",
+							"sid": 105395931141764,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "offsetOpacity",
+								"end-value": "25",
+								"time": "2",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						},
+						{
+							"id": "tween-two-properties",
+							"objectClass": "ObjetoLuna",
+							"sid": 875677651579264,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "position",
+								"end-x": "11520 + 500",
+								"end-y": "-750",
+								"time": "15",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						}
+					],
+					"sid": 564216140545961
+				},
+				{
+					"functionName": "Amanecer",
+					"functionDescription": "",
+					"functionCategory": "",
+					"functionReturnType": "none",
+					"functionIsAsync": false,
+					"functionParameters": [],
+					"eventType": "function-block",
+					"conditions": [],
+					"actions": [
+						{
+							"id": "tween-one-property",
+							"objectClass": "noche",
+							"sid": 121044158540875,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "offsetOpacity",
+								"end-value": "0",
+								"time": "2",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						},
+						{
+							"id": "tween-one-property",
+							"objectClass": "Sol",
+							"sid": 315381676799442,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "offsetOpacity",
+								"end-value": "50",
+								"time": "2",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						},
+						{
+							"id": "tween-one-property",
+							"objectClass": "Luna",
+							"sid": 842070808477652,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "offsetOpacity",
+								"end-value": "0",
+								"time": "2",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						},
+						{
+							"id": "tween-two-properties",
+							"objectClass": "ObjetoSol",
+							"sid": 433333539244555,
+							"behaviorType": "Tweeninterpolación",
+							"parameters": {
+								"tags": "\"\"",
+								"property": "position",
+								"end-x": "11520+500",
+								"end-y": "-500",
+								"time": "16",
+								"ease": "default",
+								"destroy-on-complete": "no",
+								"loop": "no",
+								"ping-pong": "no"
+							}
+						}
+					],
+					"sid": 758942740664339
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "every-x-seconds",
+							"objectClass": "System",
+							"sid": 343156335947332,
+							"parameters": {
+								"interval-seconds": "1"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "add-to-eventvar",
+							"objectClass": "System",
+							"sid": 649872519908319,
+							"parameters": {
+								"variable": "Hora",
+								"value": "1"
+							}
+						}
+					],
+					"sid": 963396763350537
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "compare-eventvar",
+							"objectClass": "System",
+							"sid": 438422562550776,
+							"parameters": {
+								"variable": "Hora",
+								"comparison": 0,
+								"value": "5"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-position",
+							"objectClass": "ObjetoSol",
+							"sid": 822166983730155,
+							"parameters": {
+								"x": "-750",
+								"y": "-750"
+							}
+						},
+						{
+							"callFunction": "Amanecer",
+							"sid": 294232427517265
+						}
+					],
+					"sid": 769538828800868
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "compare-eventvar",
+							"objectClass": "System",
+							"sid": 812261214892595,
+							"parameters": {
+								"variable": "Hora",
+								"comparison": 0,
+								"value": "17"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-position",
+							"objectClass": "ObjetoLuna",
+							"sid": 205854308918106,
+							"parameters": {
+								"x": "-750",
+								"y": "-750"
+							}
+						},
+						{
+							"callFunction": "Anochecer",
+							"sid": 536408942239713
+						}
+					],
+					"sid": 340523681678852
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "compare-eventvar",
+							"objectClass": "System",
+							"sid": 214008576007350,
+							"parameters": {
+								"variable": "Hora",
+								"comparison": 0,
+								"value": "24"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-eventvar-value",
+							"objectClass": "System",
+							"sid": 423776606203219,
+							"parameters": {
+								"variable": "Hora",
+								"value": "0"
+							}
+						}
+					],
+					"sid": 192505243202618
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "every-tick",
+							"objectClass": "System",
+							"sid": 906294547334135
+						}
+					],
+					"actions": [
+						{
+							"id": "set-text",
+							"objectClass": "Horario",
+							"sid": 508920178890930,
+							"parameters": {
+								"text": "Hora"
+							}
+						}
+					],
+					"sid": 479798159765866
+				}
+			],
+			"sid": 828146271666836
+		},
+		{
+			"eventType": "group",
+			"disabled": false,
+			"title": "DragScreen",
+			"description": "",
+			"isActiveOnStart": true,
+			"children": [
+				{
+					"eventType": "comment",
+					"text": "Set the position to the center of the viewport when touching the screen. So the screen instantly moves, even if the Camera was moved to the outermost corner of the layout."
+				},
+				{
+					"eventType": "comment",
+					"text": "The Pinpoint Object is needed for the orientation of the movement. It is pinned to the Camera, which remains in the center of the screen, so the distance between your finger and the Pinpoint stays the same while moving."
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-any-touch-start",
+							"objectClass": "Touch",
+							"sid": 362990866988258
+						}
+					],
+					"actions": [
+						{
+							"id": "set-position",
+							"objectClass": "obj_camera",
+							"sid": 205325579212898,
+							"parameters": {
+								"x": "scrollx",
+								"y": "scrolly"
+							}
+						},
+						{
+							"id": "set-position",
+							"objectClass": "obj_pinpoint",
+							"sid": 907326656497725,
+							"parameters": {
+								"x": "Touch.X",
+								"y": "Touch.Y"
+							}
+						},
+						{
+							"id": "pin-to-object",
+							"objectClass": "obj_pinpoint",
+							"sid": 992135778659587,
+							"behaviorType": "Pin",
+							"parameters": {
+								"pin-to": "obj_camera",
+								"mode": "position-only"
+							}
+						}
+					],
+					"sid": 138467667436365
+				},
+				{
+					"eventType": "comment",
+					"text": "While you swipe over the screen the Bullet Speed of the Camera is determined from the distance between your finger/cursor and the Pinpoint (two times the distance in this case), but it can be 2000 at maximum. You can play around with these parameters and the acceleration from the Cameras bullet behavior (which needs to be negativ) to find out your perfect setup."
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "compare-touch-speed",
+							"objectClass": "Touch",
+							"sid": 588766320075509,
+							"parameters": {
+								"touch-index": "0",
+								"comparison": 5,
+								"speed": "10"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-speed",
+							"objectClass": "obj_camera",
+							"sid": 920284648395417,
+							"behaviorType": "Bullet",
+							"parameters": {
+								"speed": "min(2000, distance(Touch.X, Touch.Y, obj_pinpoint.X, obj_pinpoint.Y)*2)"
+							}
+						},
+						{
+							"id": "set-angle-of-motion",
+							"objectClass": "obj_camera",
+							"sid": 652587110724029,
+							"behaviorType": "Bullet",
+							"parameters": {
+								"angle": "angle(Touch.X, Touch.Y, obj_pinpoint.X, obj_pinpoint.Y)"
+							}
+						}
+					],
+					"sid": 558787502915858
+				},
+				{
+					"eventType": "comment",
+					"text": "When your finger is to slow or it has stopped, the Camera instantly stop as well and the Pinpoint is set to the position of your finger/cursor."
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "compare-touch-speed",
+							"objectClass": "Touch",
+							"sid": 932045653931223,
+							"parameters": {
+								"touch-index": "0",
+								"comparison": 2,
+								"speed": "10"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-speed",
+							"objectClass": "obj_camera",
+							"sid": 599799269090220,
+							"behaviorType": "Bullet",
+							"parameters": {
+								"speed": "0"
+							}
+						},
+						{
+							"id": "set-position",
+							"objectClass": "obj_camera",
+							"sid": 890154379300642,
+							"parameters": {
+								"x": "scrollx",
+								"y": "scrolly"
+							}
+						},
+						{
+							"id": "unpin",
+							"objectClass": "obj_pinpoint",
+							"sid": 355122150227644,
+							"behaviorType": "Pin"
+						},
+						{
+							"id": "set-position",
+							"objectClass": "obj_pinpoint",
+							"sid": 242485074631863,
+							"parameters": {
+								"x": "Touch.X",
+								"y": "Touch.Y"
+							}
+						},
+						{
+							"id": "pin-to-object",
+							"objectClass": "obj_pinpoint",
+							"sid": 287732176772145,
+							"behaviorType": "Pin",
+							"parameters": {
+								"pin-to": "obj_camera",
+								"mode": "position-only"
+							}
+						}
+					],
+					"sid": 694725374497414
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-start-of-layout",
+							"objectClass": "System",
+							"sid": 924440642748354
+						}
+					],
+					"actions": [
+						{
+							"id": "set-collisions-enabled",
+							"objectClass": "obj_camera",
+							"sid": 708842076817933,
+							"parameters": {
+								"collisions": "disabled"
+							}
+						}
+					],
+					"sid": 612365165575496
+				}
+			],
+			"sid": 541682589299693
+		},
+		{
+			"eventType": "group",
+			"disabled": false,
+			"title": "Zoom",
+			"description": "",
+			"isActiveOnStart": true,
+			"children": [
+				{
+					"eventType": "variable",
+					"name": "Zoom",
+					"type": "number",
+					"initialValue": "1",
+					"comment": "",
+					"isStatic": true,
+					"isConstant": false,
+					"sid": 816701188062500
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-mouse-wheel",
+							"objectClass": "Mouse",
+							"sid": 380557832380690,
+							"parameters": {
+								"direction": "up"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "add-to-eventvar",
+							"objectClass": "System",
+							"sid": 968491546940442,
+							"parameters": {
+								"variable": "Zoom",
+								"value": "0.1"
+							}
+						}
+					],
+					"sid": 354062357612259
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-mouse-wheel",
+							"objectClass": "Mouse",
+							"sid": 704875170156898,
+							"parameters": {
+								"direction": "down"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "subtract-from-eventvar",
+							"objectClass": "System",
+							"sid": 122999368953736,
+							"parameters": {
+								"variable": "Zoom",
+								"value": "0.1"
+							}
+						}
+					],
+					"sid": 227099951118139
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "every-tick",
+							"objectClass": "System",
+							"sid": 540289292922077
+						}
+					],
+					"actions": [
+						{
+							"id": "set-layout-scale",
+							"objectClass": "System",
+							"sid": 967305259744308,
+							"parameters": {
+								"scale": "lerp(LayoutScale,Zoom,0.05)"
+							}
+						},
+						{
+							"id": "set-eventvar-value",
+							"objectClass": "System",
+							"sid": 460271589300704,
+							"parameters": {
+								"variable": "Zoom",
+								"value": "clamp(Zoom,0.25,1.5)"
+							}
+						}
+					],
+					"sid": 589324668934917
+				}
+			],
+			"sid": 933488167637588
+		},
+		{
+			"eventType": "group",
+			"disabled": false,
+			"title": "Poblacion",
+			"description": "",
+			"isActiveOnStart": true,
+			"children": [
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-path-found",
+							"objectClass": "aldeano",
+							"sid": 897103829078576,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "move-along-path",
+							"objectClass": "aldeano",
+							"sid": 781639509786612,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"sid": 669826468252348
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-arrived",
+							"objectClass": "aldeano",
+							"sid": 471423160634534,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "set-animation",
+							"objectClass": "aldeano",
+							"sid": 632836717738889,
+							"parameters": {
+								"animation": "\"idle\"",
+								"from": "beginning"
+							}
+						}
+					],
+					"sid": 722085730774619,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "pick-random-instance",
+									"objectClass": "System",
+									"sid": 590347879699690,
+									"parameters": {
+										"object": "PuntosDeRefencia"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "find-path",
+									"objectClass": "aldeano",
+									"sid": 382991591874722,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"x": "PuntosDeRefencia.x",
+										"y": "PuntosDeRefencia.y"
+									}
+								}
+							],
+							"sid": 587101250712052
+						}
+					]
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-created",
+							"objectClass": "aldeano",
+							"sid": 400979948614264
+						}
+					],
+					"actions": [
+						{
+							"id": "set-max-speed",
+							"objectClass": "aldeano",
+							"sid": 240599606077445,
+							"behaviorType": "Buscarutas",
+							"parameters": {
+								"speed": "90 + random(45)"
+							}
+						}
+					],
+					"sid": 872339826761710,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "pick-random-instance",
+									"objectClass": "System",
+									"sid": 520366172434535,
+									"parameters": {
+										"object": "PuntosDeRefencia"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "find-path",
+									"objectClass": "aldeano",
+									"sid": 152336220718744,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"x": "PuntosDeRefencia.x",
+										"y": "PuntosDeRefencia.y"
+									}
+								}
+							],
+							"sid": 521432023957315
+						}
+					]
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "is-moving-along-path",
+							"objectClass": "aldeano",
+							"sid": 600892091544051,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "set-animation",
+							"objectClass": "aldeano",
+							"sid": 485477013930993,
+							"parameters": {
+								"animation": "\"caminar\"",
+								"from": "beginning"
+							}
+						}
+					],
+					"sid": 842404096054631
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "is-moving-along-path",
+							"objectClass": "aldeano",
+							"sid": 430030529597728,
+							"behaviorType": "Buscarutas",
+							"isInverted": true
+						}
+					],
+					"actions": [
+						{
+							"id": "set-animation",
+							"objectClass": "aldeano",
+							"sid": 275903606411101,
+							"parameters": {
+								"animation": "\"idle\"",
+								"from": "beginning"
+							}
+						}
+					],
+					"sid": 726376953056019
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "compare-speed",
+							"objectClass": "aldeano",
+							"sid": 439204910581017,
+							"behaviorType": "Buscarutas",
+							"parameters": {
+								"comparison": 3,
+								"speed": "0"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-animation",
+							"objectClass": "aldeano",
+							"sid": 357056947846567,
+							"parameters": {
+								"animation": "\"idle\"",
+								"from": "beginning"
+							}
+						}
+					],
+					"sid": 128187426298984
+				}
+			],
+			"sid": 930586386920194
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-created",
+					"objectClass": "casa",
+					"sid": 515507562949715
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "casa",
+					"sid": 162142161031059,
+					"parameters": {
+						"frame-number": "random(12)"
+					}
+				},
+				{
+					"id": "set-size",
+					"objectClass": "casa",
+					"sid": 652159711780800,
+					"parameters": {
+						"width": "casa.Width+random(50)",
+						"height": "casa.Height+random(65)"
+					}
+				},
+				{
+					"id": "set-angle",
+					"objectClass": "casa",
+					"sid": 901713902690981,
+					"parameters": {
+						"angle": "casa.Angle+random(10)"
+					}
+				}
+			],
+			"sid": 106932112485235
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-created",
+					"objectClass": "granja",
+					"sid": 213183828115663
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "granja",
+					"sid": 102919430543516,
+					"parameters": {
+						"frame-number": "random(9)"
+					}
+				},
+				{
+					"id": "set-size",
+					"objectClass": "granja",
+					"sid": 723392105868642,
+					"parameters": {
+						"width": "granja.Width+random(60)",
+						"height": "granja.Height+random(60)"
+					}
+				},
+				{
+					"id": "set-angle",
+					"objectClass": "granja",
+					"sid": 820070622452518,
+					"parameters": {
+						"angle": "granja.Angle+random(10)"
+					}
+				}
+			],
+			"sid": 795946295562110
+		},
+		{
+			"functionName": "CrearArbol",
+			"functionDescription": "",
+			"functionCategory": "",
+			"functionReturnType": "none",
+			"functionIsAsync": false,
+			"functionParameters": [],
+			"eventType": "function-block",
+			"conditions": [],
+			"actions": [
+				{
+					"id": "create-object",
+					"objectClass": "System",
+					"sid": 833539155751853,
+					"parameters": {
+						"object-to-create": "arbol",
+						"layer": "\"Arboles\"",
+						"x": "random(11520)",
+						"y": "random(7680)",
+						"create-hierarchy": false,
+						"template-name": "\"\""
+					}
+				},
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 479250840408801,
+					"parameters": {
+						"variable": "cantidadDeArboles",
+						"value": "1"
+					}
+				}
+			],
+			"sid": 578516124744467
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 438387845265855
+				}
+			],
+			"actions": [],
+			"sid": 996320471862380,
+			"children": [
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "repeat",
+							"objectClass": "System",
+							"sid": 827308708463172,
+							"parameters": {
+								"count": "4500"
+							}
+						}
+					],
+					"actions": [
+						{
+							"callFunction": "CrearArbol",
+							"sid": 144331873764382
+						}
+					],
+					"sid": 692604845956460
+				}
+			]
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-created",
+					"objectClass": "arbol",
+					"sid": 811726665893722
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "arbol",
+					"sid": 694064430473038,
+					"parameters": {
+						"frame-number": "random(10)"
+					}
+				},
+				{
+					"id": "set-angle",
+					"objectClass": "arbol",
+					"sid": 797951999929166,
+					"parameters": {
+						"angle": "random(90)"
+					}
+				},
+				{
+					"id": "set-size",
+					"objectClass": "arbol",
+					"sid": 955828654423744,
+					"parameters": {
+						"width": "arbol.Width+random(30)",
+						"height": "arbol.Height+random(30)"
+					}
+				}
+			],
+			"sid": 655793082124701,
+			"children": [
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "is-overlapping-another-object",
+							"objectClass": "arbol",
+							"sid": 504509804501919,
+							"parameters": {
+								"object": "casa"
+							}
+						},
+						{
+							"id": "is-overlapping-another-object",
+							"objectClass": "arbol",
+							"sid": 815208569000091,
+							"parameters": {
+								"object": "granja"
+							}
+						},
+						{
+							"id": "is-overlapping-another-object",
+							"objectClass": "arbol",
+							"sid": 920230826303987,
+							"parameters": {
+								"object": "arbol"
+							}
+						},
+						{
+							"id": "is-overlapping-another-object",
+							"objectClass": "arbol",
+							"sid": 558260893561424,
+							"parameters": {
+								"object": "Castillo"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "destroy",
+							"objectClass": "arbol",
+							"sid": 769727740848976
+						}
+					],
+					"sid": 255989363532245,
+					"isOrBlock": true
+				}
+			]
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "arbol",
+					"sid": 269634550513816,
+					"parameters": {
+						"object": "casa"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "destroy",
+					"objectClass": "arbol",
+					"sid": 514106201180292
+				}
+			],
+			"sid": 303996156628460
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "arbol",
+					"sid": 152178695230299,
+					"parameters": {
+						"object": "granja"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "destroy",
+					"objectClass": "arbol",
+					"sid": 605738310246341
+				}
+			],
+			"sid": 127522932781881
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "arbol",
+					"sid": 924195548796326,
+					"parameters": {
+						"object": "aldeano"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "arbol",
+					"sid": 434574922072711,
+					"parameters": {
+						"opacity": "35"
+					}
+				}
+			],
+			"sid": 368612321514248
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "arbol",
+					"sid": 321417535524150,
+					"parameters": {
+						"object": "aldeano"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "arbol",
+					"sid": 652548414962785,
+					"parameters": {
+						"opacity": "100"
+					}
+				}
+			],
+			"sid": 166495583833782
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "MuroCuadrado",
+					"sid": 837932659272613,
+					"parameters": {
+						"object": "aldeano"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "MuroCuadrado",
+					"sid": 366395928217875,
+					"parameters": {
+						"opacity": "35"
+					}
+				}
+			],
+			"sid": 546761519861725
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "MuroCuadrado",
+					"sid": 412890900456323,
+					"parameters": {
+						"object": "aldeano"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "MuroCuadrado",
+					"sid": 507362722053825,
+					"parameters": {
+						"opacity": "100"
+					}
+				}
+			],
+			"sid": 456883332322205
+		}
+	],
+	"sid": 923840968589711
+}

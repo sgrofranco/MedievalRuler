@@ -1,0 +1,20 @@
+{
+	"name": "Sol",
+	"plugin-id": "shadowlight",
+	"sid": 396850689010467,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Pin",
+			"name": "Pegado",
+			"sid": 232646529896092
+		},
+		{
+			"behaviorId": "Tween",
+			"name": "Tweeninterpolación",
+			"sid": 346979145302636
+		}
+	],
+	"effectTypes": []
+}

@@ -1,0 +1,78 @@
+{
+	"name": "obj_camera",
+	"plugin-id": "Sprite",
+	"sid": 683251801825989,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "scrollto",
+			"name": "ScrollTo",
+			"sid": 309510036191304
+		},
+		{
+			"behaviorId": "bound",
+			"name": "BoundToLayout",
+			"sid": 400444627482149
+		},
+		{
+			"behaviorId": "Bullet",
+			"name": "Bullet",
+			"sid": 978232651080741
+		},
+		{
+			"behaviorId": "EightDir",
+			"name": "8Direction",
+			"sid": 653072138759787
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 25,
+						"height": 25,
+						"originX": 0.52,
+						"originY": 0.52,
+						"originalSource": "C:\\Users\\Andre\\Downloads\\Animation 1.png",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4938733,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								0.48,
+								0.36,
+								1,
+								0,
+								0.64,
+								0.48,
+								1,
+								1,
+								0.48,
+								0.64,
+								0,
+								1,
+								0.36,
+								0.48
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 158011845958061,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
