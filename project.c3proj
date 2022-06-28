@@ -138,7 +138,8 @@
 	"uniqueId": "bz3q0g2lk6z",
 	"objectTypes": {
 		"items": [
-			"Caminos"
+			"Caminos",
+			"AreaCamino"
 		],
 		"subfolders": [
 			{

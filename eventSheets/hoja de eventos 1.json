@@ -12,16 +12,6 @@
 			"sid": 504604656082377
 		},
 		{
-			"eventType": "variable",
-			"name": "cantidadDeArboles",
-			"type": "number",
-			"initialValue": "0",
-			"comment": "",
-			"isStatic": false,
-			"isConstant": false,
-			"sid": 578526764726012
-		},
-		{
 			"eventType": "group",
 			"disabled": false,
 			"title": "Dia/noche",
@@ -873,6 +863,18 @@
 			"sid": 930586386920194
 		},
 		{
+			"functionName": "CreaCasa",
+			"functionDescription": "",
+			"functionCategory": "",
+			"functionReturnType": "none",
+			"functionIsAsync": false,
+			"functionParameters": [],
+			"eventType": "function-block",
+			"conditions": [],
+			"actions": [],
+			"sid": 310600880345463
+		},
+		{
 			"eventType": "block",
 			"conditions": [
 				{
@@ -969,15 +971,6 @@
 						"y": "random(7680)",
 						"create-hierarchy": false,
 						"template-name": "\"\""
-					}
-				},
-				{
-					"id": "add-to-eventvar",
-					"objectClass": "System",
-					"sid": 479250840408801,
-					"parameters": {
-						"variable": "cantidadDeArboles",
-						"value": "1"
 					}
 				}
 			],
@@ -1088,6 +1081,14 @@
 							"sid": 558260893561424,
 							"parameters": {
 								"object": "Castillo"
+							}
+						},
+						{
+							"id": "is-overlapping-another-object",
+							"objectClass": "arbol",
+							"sid": 716603286199472,
+							"parameters": {
+								"object": "AreaCamino"
 							}
 						}
 					],
