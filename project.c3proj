@@ -8,32 +8,8 @@
 	"usedAddons": [
 		{
 			"type": "plugin",
-			"id": "Sprite",
-			"name": "Sprite",
-			"author": "Scirra",
-			"version": "r293.3",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "shadowlight",
-			"name": "Reflector",
-			"author": "Scirra",
-			"version": "r293.3",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "TiledBg",
-			"name": "Fondo en mosaico",
-			"author": "Scirra",
-			"version": "r293.3",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "Text",
-			"name": "Texto",
+			"id": "AdvancedRandom",
+			"name": "Aleatorio avanzado",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
@@ -56,32 +32,32 @@
 		},
 		{
 			"type": "plugin",
-			"id": "AdvancedRandom",
-			"name": "Aleatorio avanzado",
+			"id": "shadowlight",
+			"name": "Reflector",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
 		},
 		{
-			"type": "behavior",
-			"id": "shadowcaster",
-			"name": "Proyector de sombras",
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
 		},
 		{
-			"type": "behavior",
-			"id": "solid",
-			"name": "Sólido",
+			"type": "plugin",
+			"id": "Text",
+			"name": "Texto",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
 		},
 		{
-			"type": "behavior",
-			"id": "Pin",
-			"name": "Pegado",
+			"type": "plugin",
+			"id": "TiledBg",
+			"name": "Fondo en mosaico",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
@@ -90,6 +66,14 @@
 			"type": "behavior",
 			"id": "Tween",
 			"name": "Tween (interpolación)",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Pin",
+			"name": "Pegado",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
@@ -133,32 +117,74 @@
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "shadowcaster",
+			"name": "Proyector de sombras",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Sólido",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
 		}
 	],
 	"uniqueId": "bz3q0g2lk6z",
 	"objectTypes": {
 		"items": [
-			"casa",
-			"Sol",
-			"ObjetoSol",
-			"noche",
-			"Horario",
-			"Luna",
-			"ObjetoLuna",
-			"Mouse",
-			"obj_pinpoint",
-			"obj_camera",
-			"Touch",
-			"granja",
-			"aldeano",
-			"PuntosDeRefencia",
-			"arbol",
-			"Muro",
-			"Torre",
-			"MuroCuadrado",
-			"AleatorioAvanzado"
+			"Caminos"
 		],
-		"subfolders": []
+		"subfolders": [
+			{
+				"items": [
+					"AleatorioAvanzado",
+					"Mouse",
+					"Touch"
+				],
+				"subfolders": [],
+				"name": "modulos"
+			},
+			{
+				"items": [
+					"Luna",
+					"ObjetoLuna",
+					"ObjetoSol",
+					"Sol"
+				],
+				"subfolders": [],
+				"name": "Iluminacion"
+			},
+			{
+				"items": [
+					"obj_camera",
+					"obj_pinpoint"
+				],
+				"subfolders": [],
+				"name": "Camara"
+			},
+			{
+				"items": [
+					"aldeano",
+					"arbol",
+					"casa",
+					"granja",
+					"Horario",
+					"Muro",
+					"MuroCuadrado",
+					"noche",
+					"PuntosDeRefencia",
+					"Torre"
+				],
+				"subfolders": [],
+				"name": "Mundo"
+			}
+		]
 	},
 	"autosaveData": null,
 	"containers": [],

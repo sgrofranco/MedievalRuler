@@ -1,0 +1,57 @@
+{
+	"name": "Caminos",
+	"plugin-id": "Sprite",
+	"sid": 625557472702374,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 11520,
+						"height": 7680,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7042273,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								0.5,
+								0.17421875,
+								0.9999131944444445,
+								0,
+								0.8482638888888889,
+								0.5,
+								0.9999131944444445,
+								0.9998697916666667,
+								0.5,
+								0.820703125,
+								0.3341145833333333,
+								0.4986979166666667,
+								0.33368055555555554,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 149411606895203,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
