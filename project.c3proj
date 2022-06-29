@@ -138,8 +138,11 @@
 	"uniqueId": "bz3q0g2lk6z",
 	"objectTypes": {
 		"items": [
-			"Caminos",
-			"AreaCamino"
+			"MapaCamino",
+			"AreaCamino",
+			"AreaIglesia",
+			"AreaVacia",
+			"AreaNoble"
 		],
 		"subfolders": [
 			{
@@ -180,7 +183,9 @@
 					"MuroCuadrado",
 					"noche",
 					"PuntosDeRefencia",
-					"Torre"
+					"Torre",
+					"iglesia",
+					"CasaNoble"
 				],
 				"subfolders": [],
 				"name": "Mundo"
@@ -192,7 +197,9 @@
 	"families": {
 		"items": [
 			"Referencias",
-			"Castillo"
+			"Castillo",
+			"Edificios",
+			"Caminos"
 		],
 		"subfolders": []
 	},

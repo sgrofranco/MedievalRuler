@@ -1,0 +1,13 @@
+{
+	"name": "Edificios",
+	"plugin-id": "Sprite",
+	"sid": 458203784268443,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"members": [
+		"casa",
+		"iglesia",
+		"CasaNoble"
+	]
+}
