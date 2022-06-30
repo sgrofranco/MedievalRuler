@@ -149,7 +149,8 @@
 			"MapaCamino",
 			"AreaCamino",
 			"AreaVacia",
-			"AreaNoble"
+			"AreaNoble",
+			"farol"
 		],
 		"subfolders": [
 			{
