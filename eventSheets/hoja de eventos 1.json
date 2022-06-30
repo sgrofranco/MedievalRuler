@@ -1092,169 +1092,51 @@
 			"sid": 443457607211214
 		},
 		{
-			"eventType": "group",
-			"disabled": false,
-			"title": "Casa",
-			"description": "",
-			"isActiveOnStart": true,
-			"children": [
+			"eventType": "block",
+			"conditions": [
 				{
-					"functionName": "CreaCasa",
-					"functionDescription": "",
-					"functionCategory": "",
-					"functionReturnType": "none",
-					"functionIsAsync": false,
-					"functionParameters": [],
-					"eventType": "function-block",
-					"conditions": [],
-					"actions": [
-						{
-							"id": "spawn-another-object",
-							"objectClass": "AreaCamino",
-							"sid": 937452179085777,
-							"parameters": {
-								"object": "casa",
-								"layer": "\"Tierra\"",
-								"image-point": "random(6)",
-								"create-hierarchy": false
-							}
-						}
-					],
-					"sid": 370007934505350
-				},
-				{
-					"eventType": "block",
-					"conditions": [
-						{
-							"id": "on-created",
-							"objectClass": "casa",
-							"sid": 641440399161579
-						}
-					],
-					"actions": [
-						{
-							"id": "set-animation-frame",
-							"objectClass": "casa",
-							"sid": 962704622506267,
-							"parameters": {
-								"frame-number": "round(random(25))"
-							}
-						},
-						{
-							"id": "set-size",
-							"objectClass": "casa",
-							"sid": 638020699034367,
-							"parameters": {
-								"width": "casa.Width+random(-45.25)",
-								"height": "casa.Height+random(-45.25)"
-							}
-						},
-						{
-							"id": "set-position",
-							"objectClass": "casa",
-							"sid": 150918626413849,
-							"parameters": {
-								"x": "casa.X+random(-15,15)",
-								"y": "casa.y+random(-15,15)"
-							}
-						},
-						{
-							"id": "set-angle",
-							"objectClass": "casa",
-							"sid": 936036347313996,
-							"parameters": {
-								"angle": "casa.Angle+random(-10,10)"
-							}
-						}
-					],
-					"sid": 601474206344615,
-					"children": [
-						{
-							"eventType": "block",
-							"conditions": [
-								{
-									"id": "is-overlapping-another-object",
-									"objectClass": "casa",
-									"sid": 188305916828887,
-									"parameters": {
-										"object": "Edificios"
-									}
-								},
-								{
-									"id": "is-overlapping-another-object",
-									"objectClass": "casa",
-									"sid": 243964589513300,
-									"parameters": {
-										"object": "Caminos"
-									}
-								},
-								{
-									"id": "is-overlapping-another-object",
-									"objectClass": "casa",
-									"sid": 702028785326297,
-									"parameters": {
-										"object": "granja"
-									}
-								},
-								{
-									"id": "is-overlapping-another-object",
-									"objectClass": "casa",
-									"sid": 915027152545045,
-									"parameters": {
-										"object": "arbol"
-									}
-								},
-								{
-									"id": "is-overlapping-another-object",
-									"objectClass": "casa",
-									"sid": 460838055560591,
-									"parameters": {
-										"object": "Castillo"
-									}
-								}
-							],
-							"actions": [
-								{
-									"id": "destroy",
-									"objectClass": "casa",
-									"sid": 365106797416903
-								}
-							],
-							"sid": 201405080313693,
-							"isOrBlock": true
-						},
-						{
-							"eventType": "block",
-							"conditions": [
-								{
-									"id": "pick-nearestfurthest",
-									"objectClass": "AreaCamino",
-									"sid": 555790697539152,
-									"parameters": {
-										"which": "nearest",
-										"x": "Edificios.X",
-										"y": "Edificios.y"
-									}
-								}
-							],
-							"actions": [
-								{
-									"id": "set-angle-toward-position",
-									"objectClass": "Edificios",
-									"sid": 476161548036583,
-									"parameters": {
-										"x": "Caminos.x",
-										"y": "Caminos.y"
-									}
-								}
-							],
-							"sid": 505116205494757,
-							"disabled": true
-						}
-					]
+					"id": "on-created",
+					"objectClass": "casa",
+					"sid": 663450636637364
 				}
 			],
-			"sid": 535380592412387
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "casa",
+					"sid": 996583523460645,
+					"parameters": {
+						"frame-number": "round(random(25))"
+					}
+				},
+				{
+					"id": "set-size",
+					"objectClass": "casa",
+					"sid": 624437116851420,
+					"parameters": {
+						"width": "casa.Width+random(-45.25)",
+						"height": "casa.Height+random(-45.25)"
+					}
+				},
+				{
+					"id": "set-position",
+					"objectClass": "casa",
+					"sid": 694191155175570,
+					"parameters": {
+						"x": "casa.X+random(-15,15)",
+						"y": "casa.y+random(-15,15)"
+					}
+				},
+				{
+					"id": "set-angle",
+					"objectClass": "casa",
+					"sid": 729695178960939,
+					"parameters": {
+						"angle": "casa.Angle+random(-10,10)"
+					}
+				}
+			],
+			"sid": 293292326857146
 		},
 		{
 			"eventType": "block",
@@ -1277,10 +1159,10 @@
 				{
 					"id": "set-size",
 					"objectClass": "granja",
-					"sid": 723392105868642,
+					"sid": 258614966930924,
 					"parameters": {
-						"width": "granja.Width+random(60)",
-						"height": "granja.Height+random(60)"
+						"width": "granja.Width+random(-15,35)",
+						"height": "granja.Height+random(-15,35)"
 					}
 				},
 				{
@@ -1295,7 +1177,7 @@
 			"sid": 795946295562110
 		},
 		{
-			"functionName": "CrearIglesia",
+			"functionName": "CreaCasa",
 			"functionDescription": "",
 			"functionCategory": "",
 			"functionReturnType": "none",
@@ -1306,119 +1188,43 @@
 			"actions": [
 				{
 					"id": "spawn-another-object",
-					"objectClass": "AreaIglesia",
-					"sid": 811202374809934,
+					"objectClass": "AreaCamino",
+					"sid": 388738285697496,
 					"parameters": {
-						"object": "iglesia",
+						"object": "casa",
 						"layer": "\"Tierra\"",
-						"image-point": "0",
+						"image-point": "random(6)",
 						"create-hierarchy": false
 					}
 				}
 			],
-			"sid": 504266029701733
+			"sid": 341452949358533
 		},
 		{
-			"eventType": "block",
-			"conditions": [
+			"functionName": "CrearCasaNoble",
+			"functionDescription": "",
+			"functionCategory": "",
+			"functionReturnType": "none",
+			"functionIsAsync": false,
+			"functionParameters": [],
+			"eventType": "function-block",
+			"conditions": [],
+			"actions": [
 				{
-					"id": "on-start-of-layout",
+					"id": "create-object",
 					"objectClass": "System",
-					"sid": 807915227557709
+					"sid": 531550373425633,
+					"parameters": {
+						"object-to-create": "CasaNoble",
+						"layer": "\"Tierra\"",
+						"x": "4000+random(4000)",
+						"y": "3000+random(2500)",
+						"create-hierarchy": false,
+						"template-name": "\"\""
+					}
 				}
 			],
-			"actions": [],
-			"sid": 872307420787684,
-			"children": [
-				{
-					"eventType": "block",
-					"conditions": [
-						{
-							"id": "pick-random-instance",
-							"objectClass": "System",
-							"sid": 640201497798995,
-							"parameters": {
-								"object": "AreaIglesia"
-							}
-						}
-					],
-					"actions": [
-						{
-							"callFunction": "CrearIglesia",
-							"sid": 839009527041417
-						}
-					],
-					"sid": 642985913200082
-				}
-			]
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "on-start-of-layout",
-					"objectClass": "System",
-					"sid": 685366734668511
-				}
-			],
-			"actions": [],
-			"sid": 964106852855125,
-			"children": [
-				{
-					"eventType": "block",
-					"conditions": [
-						{
-							"id": "repeat",
-							"objectClass": "System",
-							"sid": 389683303239877,
-							"parameters": {
-								"count": "10"
-							}
-						}
-					],
-					"actions": [
-						{
-							"callFunction": "CreaCasa",
-							"sid": 992388931620049
-						}
-					],
-					"sid": 191393656522408
-				}
-			]
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "on-start-of-layout",
-					"objectClass": "System",
-					"sid": 319385537806817
-				}
-			],
-			"actions": [],
-			"sid": 483401072242694,
-			"children": [
-				{
-					"eventType": "block",
-					"conditions": [
-						{
-							"id": "repeat",
-							"objectClass": "System",
-							"sid": 696442848023680,
-							"parameters": {
-								"count": "500"
-							}
-						}
-					],
-					"actions": [
-						{
-							"callFunction": "CrearCasaNoble",
-							"sid": 605337116632007
-						}
-					],
-					"sid": 161502656323972
-				}
-			]
+			"sid": 721476826526604
 		},
 		{
 			"eventType": "block",
@@ -1438,9 +1244,9 @@
 						{
 							"id": "repeat",
 							"objectClass": "System",
-							"sid": 827308708463172,
+							"sid": 722046393191442,
 							"parameters": {
-								"count": "4500"
+								"count": "5500"
 							}
 						}
 					],
@@ -1502,153 +1308,6 @@
 				}
 			],
 			"sid": 456883332322205
-		},
-		{
-			"functionName": "CrearCasaNoble",
-			"functionDescription": "",
-			"functionCategory": "",
-			"functionReturnType": "none",
-			"functionIsAsync": false,
-			"functionParameters": [],
-			"eventType": "function-block",
-			"conditions": [],
-			"actions": [
-				{
-					"id": "create-object",
-					"objectClass": "System",
-					"sid": 800815497988133,
-					"parameters": {
-						"object-to-create": "CasaNoble",
-						"layer": "\"Tierra\"",
-						"x": "4000+random(4000)",
-						"y": "3000+random(2500)",
-						"create-hierarchy": false,
-						"template-name": "\"\""
-					}
-				}
-			],
-			"sid": 410785204057767
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "for-each",
-					"objectClass": "System",
-					"sid": 930585554230484,
-					"parameters": {
-						"object": "Edificios"
-					}
-				}
-			],
-			"actions": [],
-			"sid": 193855827746536,
-			"children": [
-				{
-					"eventType": "block",
-					"conditions": [
-						{
-							"id": "pick-nearestfurthest",
-							"objectClass": "AreaCamino",
-							"sid": 599712597374424,
-							"parameters": {
-								"which": "nearest",
-								"x": "CasaNoble.x",
-								"y": "CasaNoble.x"
-							}
-						}
-					],
-					"actions": [
-						{
-							"id": "set-angle-toward-position",
-							"objectClass": "CasaNoble",
-							"sid": 256036779794695,
-							"parameters": {
-								"x": "Caminos.x",
-								"y": "Caminos.y"
-							}
-						}
-					],
-					"sid": 430045859939875
-				}
-			]
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "on-created",
-					"objectClass": "CasaNoble",
-					"sid": 639299989923261
-				}
-			],
-			"actions": [],
-			"sid": 537682617432667,
-			"children": [
-				{
-					"eventType": "block",
-					"conditions": [
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "CasaNoble",
-							"sid": 841816630503698,
-							"parameters": {
-								"object": "Edificios"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "CasaNoble",
-							"sid": 731821249881573,
-							"parameters": {
-								"object": "Caminos"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "CasaNoble",
-							"sid": 601044402023219,
-							"parameters": {
-								"object": "granja"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "CasaNoble",
-							"sid": 432170570350375,
-							"parameters": {
-								"object": "arbol"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "CasaNoble",
-							"sid": 541042198194251,
-							"parameters": {
-								"object": "Castillo"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "CasaNoble",
-							"sid": 468780591399888,
-							"parameters": {
-								"object": "AreaNoble"
-							},
-							"isInverted": true
-						}
-					],
-					"actions": [
-						{
-							"id": "destroy",
-							"objectClass": "CasaNoble",
-							"sid": 715425735324205
-						}
-					],
-					"sid": 868429425899335,
-					"isOrBlock": true
-				}
-			]
 		}
 	],
 	"sid": 923840968589711
