@@ -1,0 +1,11 @@
+{
+	"name": "Caminos",
+	"plugin-id": "Sprite",
+	"sid": 256134741833429,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"members": [
+		"AreaCamino"
+	]
+}

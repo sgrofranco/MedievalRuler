@@ -1,0 +1,69 @@
+{
+	"name": "AreaCamino",
+	"plugin-id": "Sprite",
+	"sid": 908239025854927,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 250,
+						"height": 250,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8973745,
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Punto imagen 1",
+								"x": 0.1,
+								"y": -0.412
+							},
+							{
+								"name": "Punto imagen 2",
+								"x": 0.484,
+								"y": -0.332
+							},
+							{
+								"name": "Punto imagen 3",
+								"x": 0.884,
+								"y": -0.332
+							},
+							{
+								"name": "Punto imagen 4",
+								"x": 0.068,
+								"y": 1.42
+							},
+							{
+								"name": "Punto imagen 5",
+								"x": 0.516,
+								"y": 1.388
+							},
+							{
+								"name": "Punto imagen 6",
+								"x": 0.932,
+								"y": 1.332
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 647885843955745,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

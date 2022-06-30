@@ -1,0 +1,67 @@
+{
+	"name": "iglesia",
+	"plugin-id": "Sprite",
+	"sid": 162831069981627,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "shadowcaster",
+			"name": "ProyectorDeSombras",
+			"sid": 622266202849372
+		},
+		{
+			"behaviorId": "solid",
+			"name": "Sólido",
+			"sid": 647102644733301
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 200,
+						"height": 272,
+						"originX": 0.485,
+						"originY": 0.5441176470588236,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8356173,
+						"collisionPoly": {
+							"points": [
+								1,
+								1,
+								0,
+								1,
+								0,
+								0,
+								1,
+								0
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Puerta",
+								"x": 0.5,
+								"y": 0.030120481927710996
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 310677981983470,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 0
+			}
+		],
+		"subfolders": []
+	}
+}

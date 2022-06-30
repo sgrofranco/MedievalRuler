@@ -12,16 +12,6 @@
 			"sid": 504604656082377
 		},
 		{
-			"eventType": "variable",
-			"name": "cantidadDeArboles",
-			"type": "number",
-			"initialValue": "0",
-			"comment": "",
-			"isStatic": false,
-			"isConstant": false,
-			"sid": 578526764726012
-		},
-		{
 			"eventType": "group",
 			"disabled": false,
 			"title": "Dia/noche",
@@ -873,42 +863,280 @@
 			"sid": 930586386920194
 		},
 		{
+			"eventType": "group",
+			"disabled": false,
+			"title": "Arboles",
+			"description": "",
+			"isActiveOnStart": true,
+			"children": [
+				{
+					"functionName": "CrearArbol",
+					"functionDescription": "",
+					"functionCategory": "",
+					"functionReturnType": "none",
+					"functionIsAsync": false,
+					"functionParameters": [],
+					"eventType": "function-block",
+					"conditions": [],
+					"actions": [
+						{
+							"id": "create-object",
+							"objectClass": "System",
+							"sid": 431993732495086,
+							"parameters": {
+								"object-to-create": "arbol",
+								"layer": "\"Arboles\"",
+								"x": "random(11520)",
+								"y": "random(7680)",
+								"create-hierarchy": false,
+								"template-name": "\"\""
+							}
+						}
+					],
+					"sid": 428292602896368
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-created",
+							"objectClass": "arbol",
+							"sid": 160915465627744
+						}
+					],
+					"actions": [
+						{
+							"id": "set-animation-frame",
+							"objectClass": "arbol",
+							"sid": 526823273588964,
+							"parameters": {
+								"frame-number": "random(10)"
+							}
+						},
+						{
+							"id": "set-angle",
+							"objectClass": "arbol",
+							"sid": 536777065722966,
+							"parameters": {
+								"angle": "random(90)"
+							}
+						},
+						{
+							"id": "set-size",
+							"objectClass": "arbol",
+							"sid": 734256020737688,
+							"parameters": {
+								"width": "arbol.Width+random(30)",
+								"height": "arbol.Height+random(30)"
+							}
+						}
+					],
+					"sid": 391904750316030,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "is-overlapping-another-object",
+									"objectClass": "arbol",
+									"sid": 280407045706368,
+									"parameters": {
+										"object": "Edificios"
+									}
+								},
+								{
+									"id": "is-overlapping-another-object",
+									"objectClass": "arbol",
+									"sid": 533784188600795,
+									"parameters": {
+										"object": "granja"
+									}
+								},
+								{
+									"id": "is-overlapping-another-object",
+									"objectClass": "arbol",
+									"sid": 410228493128704,
+									"parameters": {
+										"object": "arbol"
+									}
+								},
+								{
+									"id": "is-overlapping-another-object",
+									"objectClass": "arbol",
+									"sid": 333490513008345,
+									"parameters": {
+										"object": "Castillo"
+									}
+								},
+								{
+									"id": "is-overlapping-another-object",
+									"objectClass": "arbol",
+									"sid": 283928902748425,
+									"parameters": {
+										"object": "AreaCamino"
+									}
+								},
+								{
+									"id": "is-overlapping-another-object",
+									"objectClass": "arbol",
+									"sid": 223223693363227,
+									"parameters": {
+										"object": "AreaVacia"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "destroy",
+									"objectClass": "arbol",
+									"sid": 338854160152242
+								}
+							],
+							"sid": 617217805381601,
+							"isOrBlock": true
+						}
+					]
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-collision-with-another-object",
+							"objectClass": "arbol",
+							"sid": 773931458238316,
+							"parameters": {
+								"object": "casa"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "destroy",
+							"objectClass": "arbol",
+							"sid": 486190463459861
+						}
+					],
+					"sid": 696376987867990
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-collision-with-another-object",
+							"objectClass": "arbol",
+							"sid": 348235167852427,
+							"parameters": {
+								"object": "granja"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "destroy",
+							"objectClass": "arbol",
+							"sid": 911533873615072
+						}
+					],
+					"sid": 524791463231040
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "is-overlapping-another-object",
+							"objectClass": "arbol",
+							"sid": 371666768316703,
+							"parameters": {
+								"object": "aldeano"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-opacity",
+							"objectClass": "arbol",
+							"sid": 769840646592737,
+							"parameters": {
+								"opacity": "35"
+							}
+						}
+					],
+					"sid": 354162738232331
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "is-overlapping-another-object",
+							"objectClass": "arbol",
+							"sid": 777455395108359,
+							"parameters": {
+								"object": "aldeano"
+							},
+							"isInverted": true
+						}
+					],
+					"actions": [
+						{
+							"id": "set-opacity",
+							"objectClass": "arbol",
+							"sid": 369816540953043,
+							"parameters": {
+								"opacity": "100"
+							}
+						}
+					],
+					"sid": 499373595856899
+				}
+			],
+			"sid": 443457607211214
+		},
+		{
 			"eventType": "block",
 			"conditions": [
 				{
 					"id": "on-created",
 					"objectClass": "casa",
-					"sid": 515507562949715
+					"sid": 663450636637364
 				}
 			],
 			"actions": [
 				{
 					"id": "set-animation-frame",
 					"objectClass": "casa",
-					"sid": 162142161031059,
+					"sid": 996583523460645,
 					"parameters": {
-						"frame-number": "random(12)"
+						"frame-number": "round(random(25))"
 					}
 				},
 				{
 					"id": "set-size",
 					"objectClass": "casa",
-					"sid": 652159711780800,
+					"sid": 624437116851420,
 					"parameters": {
-						"width": "casa.Width+random(50)",
-						"height": "casa.Height+random(65)"
+						"width": "casa.Width+random(-45.25)",
+						"height": "casa.Height+random(-45.25)"
+					}
+				},
+				{
+					"id": "set-position",
+					"objectClass": "casa",
+					"sid": 694191155175570,
+					"parameters": {
+						"x": "casa.X+random(-15,15)",
+						"y": "casa.y+random(-15,15)"
 					}
 				},
 				{
 					"id": "set-angle",
 					"objectClass": "casa",
-					"sid": 901713902690981,
+					"sid": 729695178960939,
 					"parameters": {
-						"angle": "casa.Angle+random(10)"
+						"angle": "casa.Angle+random(-10,10)"
 					}
 				}
 			],
-			"sid": 106932112485235
+			"sid": 293292326857146
 		},
 		{
 			"eventType": "block",
@@ -931,10 +1159,10 @@
 				{
 					"id": "set-size",
 					"objectClass": "granja",
-					"sid": 723392105868642,
+					"sid": 258614966930924,
 					"parameters": {
-						"width": "granja.Width+random(60)",
-						"height": "granja.Height+random(60)"
+						"width": "granja.Width+random(-15,35)",
+						"height": "granja.Height+random(-15,35)"
 					}
 				},
 				{
@@ -949,7 +1177,31 @@
 			"sid": 795946295562110
 		},
 		{
-			"functionName": "CrearArbol",
+			"functionName": "CreaCasa",
+			"functionDescription": "",
+			"functionCategory": "",
+			"functionReturnType": "none",
+			"functionIsAsync": false,
+			"functionParameters": [],
+			"eventType": "function-block",
+			"conditions": [],
+			"actions": [
+				{
+					"id": "spawn-another-object",
+					"objectClass": "AreaCamino",
+					"sid": 388738285697496,
+					"parameters": {
+						"object": "casa",
+						"layer": "\"Tierra\"",
+						"image-point": "random(6)",
+						"create-hierarchy": false
+					}
+				}
+			],
+			"sid": 341452949358533
+		},
+		{
+			"functionName": "CrearCasaNoble",
 			"functionDescription": "",
 			"functionCategory": "",
 			"functionReturnType": "none",
@@ -961,27 +1213,18 @@
 				{
 					"id": "create-object",
 					"objectClass": "System",
-					"sid": 833539155751853,
+					"sid": 531550373425633,
 					"parameters": {
-						"object-to-create": "arbol",
-						"layer": "\"Arboles\"",
-						"x": "random(11520)",
-						"y": "random(7680)",
+						"object-to-create": "CasaNoble",
+						"layer": "\"Tierra\"",
+						"x": "4000+random(4000)",
+						"y": "3000+random(2500)",
 						"create-hierarchy": false,
 						"template-name": "\"\""
 					}
-				},
-				{
-					"id": "add-to-eventvar",
-					"objectClass": "System",
-					"sid": 479250840408801,
-					"parameters": {
-						"variable": "cantidadDeArboles",
-						"value": "1"
-					}
 				}
 			],
-			"sid": 578516124744467
+			"sid": 721476826526604
 		},
 		{
 			"eventType": "block",
@@ -1001,9 +1244,9 @@
 						{
 							"id": "repeat",
 							"objectClass": "System",
-							"sid": 827308708463172,
+							"sid": 722046393191442,
 							"parameters": {
-								"count": "4500"
+								"count": "5500"
 							}
 						}
 					],
@@ -1016,183 +1259,6 @@
 					"sid": 692604845956460
 				}
 			]
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "on-created",
-					"objectClass": "arbol",
-					"sid": 811726665893722
-				}
-			],
-			"actions": [
-				{
-					"id": "set-animation-frame",
-					"objectClass": "arbol",
-					"sid": 694064430473038,
-					"parameters": {
-						"frame-number": "random(10)"
-					}
-				},
-				{
-					"id": "set-angle",
-					"objectClass": "arbol",
-					"sid": 797951999929166,
-					"parameters": {
-						"angle": "random(90)"
-					}
-				},
-				{
-					"id": "set-size",
-					"objectClass": "arbol",
-					"sid": 955828654423744,
-					"parameters": {
-						"width": "arbol.Width+random(30)",
-						"height": "arbol.Height+random(30)"
-					}
-				}
-			],
-			"sid": 655793082124701,
-			"children": [
-				{
-					"eventType": "block",
-					"conditions": [
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "arbol",
-							"sid": 504509804501919,
-							"parameters": {
-								"object": "casa"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "arbol",
-							"sid": 815208569000091,
-							"parameters": {
-								"object": "granja"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "arbol",
-							"sid": 920230826303987,
-							"parameters": {
-								"object": "arbol"
-							}
-						},
-						{
-							"id": "is-overlapping-another-object",
-							"objectClass": "arbol",
-							"sid": 558260893561424,
-							"parameters": {
-								"object": "Castillo"
-							}
-						}
-					],
-					"actions": [
-						{
-							"id": "destroy",
-							"objectClass": "arbol",
-							"sid": 769727740848976
-						}
-					],
-					"sid": 255989363532245,
-					"isOrBlock": true
-				}
-			]
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "on-collision-with-another-object",
-					"objectClass": "arbol",
-					"sid": 269634550513816,
-					"parameters": {
-						"object": "casa"
-					}
-				}
-			],
-			"actions": [
-				{
-					"id": "destroy",
-					"objectClass": "arbol",
-					"sid": 514106201180292
-				}
-			],
-			"sid": 303996156628460
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "on-collision-with-another-object",
-					"objectClass": "arbol",
-					"sid": 152178695230299,
-					"parameters": {
-						"object": "granja"
-					}
-				}
-			],
-			"actions": [
-				{
-					"id": "destroy",
-					"objectClass": "arbol",
-					"sid": 605738310246341
-				}
-			],
-			"sid": 127522932781881
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "is-overlapping-another-object",
-					"objectClass": "arbol",
-					"sid": 924195548796326,
-					"parameters": {
-						"object": "aldeano"
-					}
-				}
-			],
-			"actions": [
-				{
-					"id": "set-opacity",
-					"objectClass": "arbol",
-					"sid": 434574922072711,
-					"parameters": {
-						"opacity": "35"
-					}
-				}
-			],
-			"sid": 368612321514248
-		},
-		{
-			"eventType": "block",
-			"conditions": [
-				{
-					"id": "is-overlapping-another-object",
-					"objectClass": "arbol",
-					"sid": 321417535524150,
-					"parameters": {
-						"object": "aldeano"
-					},
-					"isInverted": true
-				}
-			],
-			"actions": [
-				{
-					"id": "set-opacity",
-					"objectClass": "arbol",
-					"sid": 652548414962785,
-					"parameters": {
-						"opacity": "100"
-					}
-				}
-			],
-			"sid": 166495583833782
 		},
 		{
 			"eventType": "block",
@@ -1242,6 +1308,134 @@
 				}
 			],
 			"sid": 456883332322205
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-created",
+					"objectClass": "CasaNoble",
+					"sid": 570931540922408
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "CasaNoble",
+					"sid": 642218868348756,
+					"parameters": {
+						"frame-number": "random(3)"
+					}
+				}
+			],
+			"sid": 222322344403274
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 859704902029154
+				}
+			],
+			"actions": [
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 737933416732269,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "150",
+						"end-y": "150",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				},
+				{
+					"id": "wait-for-previous-actions",
+					"objectClass": "System",
+					"sid": 104643874006266
+				},
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 130029552106995,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "200",
+						"end-y": "200",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				}
+			],
+			"sid": 637166625382783
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 697718007821091,
+					"parameters": {
+						"interval-seconds": "2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 685050188127964,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "150",
+						"end-y": "150",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				},
+				{
+					"id": "wait-for-previous-actions",
+					"objectClass": "System",
+					"sid": 918264325493557
+				},
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 542594173379650,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "200",
+						"end-y": "200",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				}
+			],
+			"sid": 269432394616555
 		}
 	],
 	"sid": 923840968589711
