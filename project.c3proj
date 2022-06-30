@@ -135,6 +135,14 @@
 			"bundled": false
 		},
 		{
+			"type": "behavior",
+			"id": "Rotate",
+			"name": "Girar",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
+		},
+		{
 			"type": "effect",
 			"id": "multiply",
 			"name": "Multiplicar",
@@ -150,7 +158,10 @@
 			"AreaCamino",
 			"AreaVacia",
 			"AreaNoble",
-			"farol"
+			"farol",
+			"DiscoDiaNoche",
+			"Reloj",
+			"Horario"
 		],
 		"subfolders": [
 			{
@@ -188,7 +199,6 @@
 					"arbol",
 					"casa",
 					"granja",
-					"Horario",
 					"Muro",
 					"MuroCuadrado",
 					"PuntosDeRefencia",

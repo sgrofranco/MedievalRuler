@@ -1134,6 +1134,17 @@
 					"parameters": {
 						"angle": "casa.Angle+random(-10,10)"
 					}
+				},
+				{
+					"id": "spawn-another-object",
+					"objectClass": "casa",
+					"sid": 239136552590997,
+					"parameters": {
+						"object": "aldeano",
+						"layer": "\"Tierra\"",
+						"image-point": "1",
+						"create-hierarchy": false
+					}
 				}
 			],
 			"sid": 293292326857146
@@ -1343,13 +1354,13 @@
 				{
 					"id": "tween-two-properties",
 					"objectClass": "luzsita",
-					"sid": 737933416732269,
+					"sid": 843139779639894,
 					"behaviorType": "Tweeninterpolación",
 					"parameters": {
 						"tags": "\"\"",
 						"property": "size",
-						"end-x": "150",
-						"end-y": "150",
+						"end-x": "140+random(10)",
+						"end-y": "140+random(10)",
 						"time": "1",
 						"ease": "default",
 						"destroy-on-complete": "no",
@@ -1365,13 +1376,13 @@
 				{
 					"id": "tween-two-properties",
 					"objectClass": "luzsita",
-					"sid": 130029552106995,
+					"sid": 963635274210463,
 					"behaviorType": "Tweeninterpolación",
 					"parameters": {
 						"tags": "\"\"",
 						"property": "size",
-						"end-x": "200",
-						"end-y": "200",
+						"end-x": "200+random(10)",
+						"end-y": "200+random(10)",
 						"time": "1",
 						"ease": "default",
 						"destroy-on-complete": "no",
