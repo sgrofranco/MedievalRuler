@@ -91,12 +91,12 @@
 						{
 							"id": "tween-one-property",
 							"objectClass": "noche",
-							"sid": 320445884963527,
+							"sid": 116411568558891,
 							"behaviorType": "Tweeninterpolación",
 							"parameters": {
 								"tags": "\"\"",
 								"property": "offsetOpacity",
-								"end-value": "50",
+								"end-value": "60",
 								"time": "2",
 								"ease": "default",
 								"destroy-on-complete": "no",
