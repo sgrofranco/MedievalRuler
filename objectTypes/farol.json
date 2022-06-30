@@ -1,0 +1,49 @@
+{
+	"name": "farol",
+	"plugin-id": "Sprite",
+	"sid": 996551209080578,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 27,
+						"height": 27,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6560457,
+						"collisionPoly": {
+							"points": [
+								0.037037037037037035,
+								0.037037037037037035,
+								0.9629629629629629,
+								0.037037037037037035,
+								0.9629629629629629,
+								0.9629629629629629,
+								0.037037037037037035,
+								0.9629629629629629
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 610073518677337,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
