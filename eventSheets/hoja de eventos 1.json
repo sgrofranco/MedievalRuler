@@ -1308,6 +1308,134 @@
 				}
 			],
 			"sid": 456883332322205
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-created",
+					"objectClass": "CasaNoble",
+					"sid": 570931540922408
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "CasaNoble",
+					"sid": 642218868348756,
+					"parameters": {
+						"frame-number": "random(3)"
+					}
+				}
+			],
+			"sid": 222322344403274
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 859704902029154
+				}
+			],
+			"actions": [
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 737933416732269,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "150",
+						"end-y": "150",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				},
+				{
+					"id": "wait-for-previous-actions",
+					"objectClass": "System",
+					"sid": 104643874006266
+				},
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 130029552106995,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "200",
+						"end-y": "200",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				}
+			],
+			"sid": 637166625382783
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 697718007821091,
+					"parameters": {
+						"interval-seconds": "2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 685050188127964,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "150",
+						"end-y": "150",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				},
+				{
+					"id": "wait-for-previous-actions",
+					"objectClass": "System",
+					"sid": 918264325493557
+				},
+				{
+					"id": "tween-two-properties",
+					"objectClass": "luzsita",
+					"sid": 542594173379650,
+					"behaviorType": "Tweeninterpolación",
+					"parameters": {
+						"tags": "\"\"",
+						"property": "size",
+						"end-x": "200",
+						"end-y": "200",
+						"time": "1",
+						"ease": "default",
+						"destroy-on-complete": "no",
+						"loop": "no",
+						"ping-pong": "no"
+					}
+				}
+			],
+			"sid": 269432394616555
 		}
 	],
 	"sid": 923840968589711

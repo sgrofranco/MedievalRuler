@@ -14306,10 +14306,57 @@
 						"angle": 0,
 						"zElevation": 0
 					}
+				},
+				{
+					"type": "luzsita",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 368,
+					"instanceVariables": {
+						"tamañox": 350,
+						"tamañoy": 350
+					},
+					"behaviors": {
+						"Tweeninterpolación": {
+							"properties": {
+								"enabled": true
+							}
+						}
+					},
+					"world": {
+						"x": 5738,
+						"y": 4042,
+						"width": 199.0398062767121,
+						"height": 199.0398062767121,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0.6275312899561984,
+						"zElevation": 0,
+						"blendMode": "destination-out"
+					}
 				}
 			],
 			"sid": 449654623459462,
-			"effectTypes": [],
+			"effectTypes": [
+				{
+					"effectId": "multiply",
+					"name": "Multiplicar",
+					"instance": {
+						"parameters": {}
+					}
+				}
+			],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
 			"color": [

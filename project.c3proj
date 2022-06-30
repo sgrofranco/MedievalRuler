@@ -48,16 +48,16 @@
 		},
 		{
 			"type": "plugin",
-			"id": "Text",
-			"name": "Texto",
+			"id": "TiledBg",
+			"name": "Fondo en mosaico",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
 		},
 		{
 			"type": "plugin",
-			"id": "TiledBg",
-			"name": "Fondo en mosaico",
+			"id": "Text",
+			"name": "Texto",
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
@@ -133,6 +133,14 @@
 			"author": "Scirra",
 			"version": "r293.3",
 			"bundled": false
+		},
+		{
+			"type": "effect",
+			"id": "multiply",
+			"name": "Multiplicar",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
 		}
 	],
 	"uniqueId": "bz3q0g2lk6z",
@@ -158,7 +166,9 @@
 					"Luna",
 					"ObjetoLuna",
 					"ObjetoSol",
-					"Sol"
+					"Sol",
+					"noche",
+					"luzsita"
 				],
 				"subfolders": [],
 				"name": "Iluminacion"
@@ -180,7 +190,6 @@
 					"Horario",
 					"Muro",
 					"MuroCuadrado",
-					"noche",
 					"PuntosDeRefencia",
 					"Torre",
 					"iglesia",
