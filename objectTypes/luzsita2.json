@@ -1,14 +1,27 @@
 {
-	"name": "Farol",
+	"name": "luzsita2",
 	"plugin-id": "Sprite",
-	"sid": 836388176652350,
+	"sid": 681596094262603,
 	"isGlobal": false,
-	"instanceVariables": [],
+	"instanceVariables": [
+		{
+			"name": "tamañox",
+			"type": "number",
+			"desc": "",
+			"sid": 144914998769670
+		},
+		{
+			"name": "tamañoy",
+			"type": "number",
+			"desc": "",
+			"sid": 779189511844811
+		}
+	],
 	"behaviorTypes": [
 		{
-			"behaviorId": "solid",
-			"name": "Sólido",
-			"sid": 430274865659784
+			"behaviorId": "Tween",
+			"name": "Tweeninterpolación",
+			"sid": 592932555494521
 		}
 	],
 	"effectTypes": [],
@@ -17,19 +30,19 @@
 			{
 				"frames": [
 					{
-						"width": 25,
-						"height": 25,
+						"width": 250,
+						"height": 250,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1307052,
+						"imageSpriteId": 1580630,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 153695232342275,
+				"sid": 642705399688807,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

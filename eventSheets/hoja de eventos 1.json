@@ -688,6 +688,29 @@
 					"eventType": "block",
 					"conditions": [
 						{
+							"id": "on-failed-to-find-path",
+							"objectClass": "aldeano",
+							"sid": 180827852826822,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "set-size",
+							"objectClass": "aldeano",
+							"sid": 168856253384445,
+							"parameters": {
+								"width": "200",
+								"height": "200"
+							}
+						}
+					],
+					"sid": 114025161431669
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
 							"id": "on-arrived",
 							"objectClass": "aldeano",
 							"sid": 471423160634534,
@@ -1141,6 +1164,17 @@
 					"sid": 729695178960939,
 					"parameters": {
 						"angle": "casa.Angle+random(-10,10)"
+					}
+				},
+				{
+					"id": "spawn-another-object",
+					"objectClass": "casa",
+					"sid": 314721807324061,
+					"parameters": {
+						"object": "aldeano",
+						"layer": "\"Tierra\"",
+						"image-point": "1",
+						"create-hierarchy": false
 					}
 				}
 			],
