@@ -1,0 +1,57 @@
+{
+	"name": "ElojDiaNOche",
+	"plugin-id": "Sprite",
+	"sid": 577719152884374,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 285,
+						"height": 285,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6640222,
+						"collisionPoly": {
+							"points": [
+								0.1543859649122807,
+								0.1543859649122807,
+								0.5,
+								0.010526315789473684,
+								0.8421052631578947,
+								0.1543859649122807,
+								0.9859649122807017,
+								0.5,
+								0.8421052631578947,
+								0.8421052631578947,
+								0.5,
+								0.9859649122807017,
+								0.1543859649122807,
+								0.8421052631578947,
+								0.010526315789473684,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 623886905574600,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

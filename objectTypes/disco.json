@@ -1,0 +1,63 @@
+{
+	"name": "Disco",
+	"plugin-id": "Sprite",
+	"sid": 584457799480139,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Rotate",
+			"name": "Girar",
+			"sid": 357549131213991
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 260,
+						"height": 260,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7605836,
+						"collisionPoly": {
+							"points": [
+								0.019230769230769232,
+								0.5,
+								0.1576923076923077,
+								0.16153846153846152,
+								0.5,
+								0.023076923076923106,
+								0.8384615384615385,
+								0.16153846153846152,
+								0.9769230769230769,
+								0.5,
+								0.8384615384615385,
+								0.8423076923076923,
+								0.5,
+								0.9807692307692307,
+								0.1576923076923077,
+								0.8423076923076923
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 844198029381189,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

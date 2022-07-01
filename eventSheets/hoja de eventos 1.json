@@ -91,12 +91,12 @@
 						{
 							"id": "tween-one-property",
 							"objectClass": "noche",
-							"sid": 116411568558891,
+							"sid": 320445884963527,
 							"behaviorType": "Tweeninterpolación",
 							"parameters": {
 								"tags": "\"\"",
 								"property": "offsetOpacity",
-								"end-value": "60",
+								"end-value": "50",
 								"time": "2",
 								"ease": "default",
 								"destroy-on-complete": "no",
@@ -748,10 +748,10 @@
 						{
 							"id": "set-max-speed",
 							"objectClass": "aldeano",
-							"sid": 240599606077445,
+							"sid": 169905142614859,
 							"behaviorType": "Buscarutas",
 							"parameters": {
-								"speed": "90 + random(45)"
+								"speed": "50 + random(45)"
 							}
 						}
 					],
@@ -983,6 +983,14 @@
 									"parameters": {
 										"object": "AreaVacia"
 									}
+								},
+								{
+									"id": "is-overlapping-another-object",
+									"objectClass": "arbol",
+									"sid": 637770938241769,
+									"parameters": {
+										"object": "Vallas"
+									}
 								}
 							],
 							"actions": [
@@ -1133,17 +1141,6 @@
 					"sid": 729695178960939,
 					"parameters": {
 						"angle": "casa.Angle+random(-10,10)"
-					}
-				},
-				{
-					"id": "spawn-another-object",
-					"objectClass": "casa",
-					"sid": 239136552590997,
-					"parameters": {
-						"object": "aldeano",
-						"layer": "\"Tierra\"",
-						"image-point": "1",
-						"create-hierarchy": false
 					}
 				}
 			],
@@ -1354,13 +1351,13 @@
 				{
 					"id": "tween-two-properties",
 					"objectClass": "luzsita",
-					"sid": 843139779639894,
+					"sid": 737933416732269,
 					"behaviorType": "Tweeninterpolación",
 					"parameters": {
 						"tags": "\"\"",
 						"property": "size",
-						"end-x": "140+random(10)",
-						"end-y": "140+random(10)",
+						"end-x": "150",
+						"end-y": "150",
 						"time": "1",
 						"ease": "default",
 						"destroy-on-complete": "no",
@@ -1376,13 +1373,13 @@
 				{
 					"id": "tween-two-properties",
 					"objectClass": "luzsita",
-					"sid": 963635274210463,
+					"sid": 130029552106995,
 					"behaviorType": "Tweeninterpolación",
 					"parameters": {
 						"tags": "\"\"",
 						"property": "size",
-						"end-x": "200+random(10)",
-						"end-y": "200+random(10)",
+						"end-x": "200",
+						"end-y": "200",
 						"time": "1",
 						"ease": "default",
 						"destroy-on-complete": "no",
@@ -1447,6 +1444,292 @@
 				}
 			],
 			"sid": 269432394616555
+		},
+		{
+			"eventType": "group",
+			"disabled": false,
+			"title": "Animales",
+			"description": "",
+			"isActiveOnStart": true,
+			"children": [
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-path-found",
+							"objectClass": "Vaca",
+							"sid": 614129652766479,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "move-along-path",
+							"objectClass": "Vaca",
+							"sid": 340398920814565,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"sid": 205858542869852
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-arrived",
+							"objectClass": "Vaca",
+							"sid": 759063004471765,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "set-animation",
+							"objectClass": "Vaca",
+							"sid": 487381557610554,
+							"parameters": {
+								"animation": "\"Pastorear\"",
+								"from": "beginning"
+							}
+						}
+					],
+					"sid": 612555444228655,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "pick-random-instance",
+									"objectClass": "System",
+									"sid": 195506139291672,
+									"parameters": {
+										"object": "PuntosDeRefenciaVaca"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "wait",
+									"objectClass": "System",
+									"sid": 478574259142608,
+									"parameters": {
+										"seconds": "3"
+									}
+								},
+								{
+									"id": "set-animation",
+									"objectClass": "Vaca",
+									"sid": 601406724886188,
+									"parameters": {
+										"animation": "\"Caminar\"",
+										"from": "beginning"
+									}
+								},
+								{
+									"id": "find-path",
+									"objectClass": "Vaca",
+									"sid": 891239793969621,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"x": "PuntosDeRefenciaVaca.x",
+										"y": "PuntosDeRefenciaVaca.y"
+									}
+								}
+							],
+							"sid": 147225319013512
+						}
+					]
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-created",
+							"objectClass": "Vaca",
+							"sid": 509185211857327
+						}
+					],
+					"actions": [
+						{
+							"id": "set-max-speed",
+							"objectClass": "Vaca",
+							"sid": 476219043862467,
+							"behaviorType": "Buscarutas",
+							"parameters": {
+								"speed": "50+random(5)"
+							}
+						}
+					],
+					"sid": 596916821252887,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "pick-random-instance",
+									"objectClass": "System",
+									"sid": 273192080062095,
+									"parameters": {
+										"object": "PuntosDeRefenciaVaca"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "find-path",
+									"objectClass": "Vaca",
+									"sid": 884847063970516,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"x": "PuntosDeRefenciaVaca.x",
+										"y": "PuntosDeRefenciaVaca.y"
+									}
+								}
+							],
+							"sid": 804991606145191
+						}
+					]
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-path-found",
+							"objectClass": "Cerdo",
+							"sid": 122241980735523,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "move-along-path",
+							"objectClass": "Cerdo",
+							"sid": 416357811970527,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"sid": 796994143294973
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-arrived",
+							"objectClass": "Cerdo",
+							"sid": 356058178573565,
+							"behaviorType": "Buscarutas"
+						}
+					],
+					"actions": [
+						{
+							"id": "set-animation",
+							"objectClass": "Cerdo",
+							"sid": 679855823945354,
+							"parameters": {
+								"animation": "\"Comer\"",
+								"from": "beginning"
+							}
+						}
+					],
+					"sid": 867489568043362,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "pick-random-instance",
+									"objectClass": "System",
+									"sid": 409726083172403,
+									"parameters": {
+										"object": "PuntosDeRefenciaCerdo"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "wait",
+									"objectClass": "System",
+									"sid": 670568271953257,
+									"parameters": {
+										"seconds": "3"
+									}
+								},
+								{
+									"id": "set-animation",
+									"objectClass": "Cerdo",
+									"sid": 231545159330876,
+									"parameters": {
+										"animation": "\"Caminar\"",
+										"from": "beginning"
+									}
+								},
+								{
+									"id": "find-path",
+									"objectClass": "Cerdo",
+									"sid": 295348500708275,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"x": "PuntosDeRefenciaCerdo.x",
+										"y": "PuntosDeRefenciaCerdo.y"
+									}
+								}
+							],
+							"sid": 250216422167989
+						}
+					]
+				},
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-created",
+							"objectClass": "Cerdo",
+							"sid": 768359111994473
+						}
+					],
+					"actions": [
+						{
+							"id": "set-max-speed",
+							"objectClass": "Cerdo",
+							"sid": 469398474261672,
+							"behaviorType": "Buscarutas",
+							"parameters": {
+								"speed": "50+random(5)"
+							}
+						}
+					],
+					"sid": 557429239247787,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "pick-random-instance",
+									"objectClass": "System",
+									"sid": 716132671308553,
+									"parameters": {
+										"object": "PuntosDeRefenciaCerdo"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "find-path",
+									"objectClass": "Cerdo",
+									"sid": 740369048830531,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"x": "PuntosDeRefenciaCerdo.x",
+										"y": "PuntosDeRefenciaCerdo.y"
+									}
+								}
+							],
+							"sid": 186290849368786
+						}
+					]
+				}
+			],
+			"sid": 736688744272505
 		}
 	],
 	"sid": 923840968589711

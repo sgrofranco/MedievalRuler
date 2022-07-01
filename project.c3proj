@@ -158,10 +158,11 @@
 			"AreaCamino",
 			"AreaVacia",
 			"AreaNoble",
-			"farol",
-			"DiscoDiaNoche",
-			"Reloj",
-			"Horario"
+			"Disco",
+			"ElojDiaNOche",
+			"Vallas",
+			"Horario",
+			"Farol"
 		],
 		"subfolders": [
 			{
@@ -204,7 +205,11 @@
 					"PuntosDeRefencia",
 					"Torre",
 					"iglesia",
-					"CasaNoble"
+					"CasaNoble",
+					"PuntosDeRefenciaVaca",
+					"Vaca",
+					"PuntosDeRefenciaCerdo",
+					"Cerdo"
 				],
 				"subfolders": [],
 				"name": "Mundo"
@@ -218,7 +223,8 @@
 			"Referencias",
 			"Castillo",
 			"Edificios",
-			"Caminos"
+			"Caminos",
+			"Animales"
 		],
 		"subfolders": []
 	},

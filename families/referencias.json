@@ -6,6 +6,8 @@
 	"behaviorTypes": [],
 	"effectTypes": [],
 	"members": [
-		"PuntosDeRefencia"
+		"PuntosDeRefencia",
+		"PuntosDeRefenciaVaca",
+		"PuntosDeRefenciaCerdo"
 	]
 }

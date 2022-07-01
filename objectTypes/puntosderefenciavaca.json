@@ -1,7 +1,7 @@
 {
-	"name": "Farol",
+	"name": "PuntosDeRefenciaVaca",
 	"plugin-id": "Sprite",
-	"sid": 836388176652350,
+	"sid": 604537645656503,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,19 +11,19 @@
 			{
 				"frames": [
 					{
-						"width": 25,
-						"height": 25,
+						"width": 50,
+						"height": 50,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1307052,
+						"imageSpriteId": 2586139,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 153695232342275,
+				"sid": 289076209358692,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,
