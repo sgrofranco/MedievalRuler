@@ -1,26 +1,26 @@
 {
-	"name": "aldeano",
+	"name": "worker",
 	"plugin-id": "Sprite",
-	"sid": 406940710142355,
+	"sid": 500029741270797,
 	"isGlobal": false,
 	"instanceVariables": [
 		{
 			"name": "Faccion",
 			"type": "number",
 			"desc": "",
-			"sid": 751259496116998
+			"sid": 892959212521966
 		}
 	],
 	"behaviorTypes": [
 		{
 			"behaviorId": "Pathfinding",
 			"name": "Buscarutas",
-			"sid": 398049301473083
+			"sid": 864889191902235
 		},
 		{
 			"behaviorId": "shadowcaster",
 			"name": "ProyectorDeSombras",
-			"sid": 512592452157959
+			"sid": 214512255253365
 		}
 	],
 	"effectTypes": [],
@@ -36,7 +36,7 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 7743927,
+						"imageSpriteId": 2891814,
 						"collisionPoly": {
 							"points": [
 								0.05,
@@ -64,7 +64,7 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1802835,
+						"imageSpriteId": 2143240,
 						"collisionPoly": {
 							"points": [
 								0.05,
@@ -92,7 +92,7 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 3777401,
+						"imageSpriteId": 2667602,
 						"collisionPoly": {
 							"points": [
 								0.05,
@@ -120,7 +120,7 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 87387,
+						"imageSpriteId": 980257,
 						"collisionPoly": {
 							"points": [
 								0.05,
@@ -148,7 +148,7 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1188102,
+						"imageSpriteId": 5775223,
 						"collisionPoly": {
 							"points": [
 								0.05,
@@ -169,7 +169,7 @@
 						"duration": 1
 					}
 				],
-				"sid": 719336397251798,
+				"sid": 427915854090211,
 				"name": "caminar",
 				"isLooping": true,
 				"isPingPong": true,
@@ -187,7 +187,7 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 9632173,
+						"imageSpriteId": 531696,
 						"collisionPoly": {
 							"points": [
 								0,
@@ -208,7 +208,7 @@
 						"duration": 1
 					}
 				],
-				"sid": 330188069980950,
+				"sid": 760344925562502,
 				"name": "idle",
 				"isLooping": true,
 				"isPingPong": false,

@@ -881,6 +881,236 @@
 						}
 					],
 					"sid": 128187426298984
+				},
+				{
+					"eventType": "group",
+					"disabled": false,
+					"title": "Alineacion",
+					"description": "",
+					"isActiveOnStart": true,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "on-created",
+									"objectClass": "aldeano",
+									"sid": 584868720312954
+								}
+							],
+							"actions": [
+								{
+									"id": "set-instvar-value",
+									"objectClass": "aldeano",
+									"sid": 605315590258482,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"value": "choose(0,1,2,3,4,5,6,7,8,9,10)"
+									}
+								}
+							],
+							"sid": 103784233921542
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 107211593084079,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "0"
+									}
+								}
+							],
+							"actions": [],
+							"sid": 320320509138796
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 400426822612628,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "1"
+									}
+								},
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 947427394808231,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "2"
+									}
+								},
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 901664257397380,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "3"
+									}
+								},
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 785064189189376,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "5"
+									}
+								},
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 597407798644609,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "4"
+									}
+								},
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 776786319059626,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "6"
+									}
+								},
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 259295502241585,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "7"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "set-default-color",
+									"objectClass": "aldeano",
+									"sid": 610864509000586,
+									"parameters": {
+										"color": "rgbEx(255, 0, 0)"
+									}
+								},
+								{
+									"id": "spawn-another-object",
+									"objectClass": "aldeano",
+									"sid": 178497614742616,
+									"parameters": {
+										"object": "worker",
+										"layer": "\"Tierra\"",
+										"image-point": "0",
+										"create-hierarchy": false
+									}
+								},
+								{
+									"id": "destroy",
+									"objectClass": "aldeano",
+									"sid": 252170901133793
+								}
+							],
+							"sid": 677623133003425,
+							"isOrBlock": true
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 539262001760930,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "8"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "set-default-color",
+									"objectClass": "aldeano",
+									"sid": 304262725754604,
+									"parameters": {
+										"color": "rgbEx(0, 255, 0)"
+									}
+								}
+							],
+							"sid": 493403486616918
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 520894926446857,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "9"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "set-default-color",
+									"objectClass": "aldeano",
+									"sid": 842511218003174,
+									"parameters": {
+										"color": "rgbEx(0, 0, 255)"
+									}
+								}
+							],
+							"sid": 604526319974025
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "compare-instance-variable",
+									"objectClass": "aldeano",
+									"sid": 901529061869534,
+									"parameters": {
+										"instance-variable": "Faccion",
+										"comparison": 0,
+										"value": "10"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "set-default-color",
+									"objectClass": "aldeano",
+									"sid": 508706419615258,
+									"parameters": {
+										"color": "rgbEx(255, 255, 0)"
+									}
+								}
+							],
+							"sid": 378856146755633
+						}
+					],
+					"sid": 572641306190088
 				}
 			],
 			"sid": 930586386920194

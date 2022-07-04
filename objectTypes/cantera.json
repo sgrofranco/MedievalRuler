@@ -1,0 +1,57 @@
+{
+	"name": "cantera",
+	"plugin-id": "Sprite",
+	"sid": 911467369608892,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 480,
+						"height": 457,
+						"originX": 0.49361449864498647,
+						"originY": 0.503704556796806,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8011646,
+						"collisionPoly": {
+							"points": [
+								0.11675135501355015,
+								0.07662482244999806,
+								0.49361449864498647,
+								0,
+								0.8450711382113821,
+								0.10061806595262773,
+								0.9721036585365853,
+								0.503704556796806,
+								0.8450711382113821,
+								0.9019923989404584,
+								0.49361449864498647,
+								1,
+								0.14215785907859077,
+								0.8971937502399325,
+								0,
+								0.503704556796806
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 323516589935696,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

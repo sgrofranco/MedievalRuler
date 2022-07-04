@@ -155,14 +155,10 @@
 	"objectTypes": {
 		"items": [
 			"MapaCamino",
-			"AreaCamino",
-			"AreaVacia",
-			"AreaNoble",
 			"Disco",
 			"ElojDiaNOche",
-			"Vallas",
 			"Horario",
-			"Farol"
+			"cantera"
 		],
 		"subfolders": [
 			{
@@ -203,17 +199,35 @@
 					"granja",
 					"Muro",
 					"MuroCuadrado",
-					"PuntosDeRefencia",
 					"Torre",
 					"iglesia",
 					"CasaNoble",
-					"PuntosDeRefenciaVaca",
 					"Vaca",
-					"PuntosDeRefenciaCerdo",
-					"Cerdo"
+					"Cerdo",
+					"Farol",
+					"Vallas",
+					"worker"
 				],
 				"subfolders": [],
 				"name": "Mundo"
+			},
+			{
+				"items": [
+					"PuntosDeRefencia",
+					"PuntosDeRefenciaCerdo",
+					"PuntosDeRefenciaVaca"
+				],
+				"subfolders": [],
+				"name": "PuntosDeReferncia"
+			},
+			{
+				"items": [
+					"AreaCamino",
+					"AreaNoble",
+					"AreaVacia"
+				],
+				"subfolders": [],
+				"name": "Areas"
 			}
 		]
 	},
