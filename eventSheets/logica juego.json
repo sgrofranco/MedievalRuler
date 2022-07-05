@@ -1,5 +1,5 @@
 {
-	"name": "Hoja de eventos 1",
+	"name": "Logica Juego",
 	"events": [
 		{
 			"eventType": "variable",
@@ -1111,6 +1111,210 @@
 						}
 					],
 					"sid": 572641306190088
+				},
+				{
+					"eventType": "group",
+					"disabled": false,
+					"title": "Worker",
+					"description": "",
+					"isActiveOnStart": true,
+					"children": [
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "on-path-found",
+									"objectClass": "worker",
+									"sid": 276699192917777,
+									"behaviorType": "Buscarutas"
+								}
+							],
+							"actions": [
+								{
+									"id": "move-along-path",
+									"objectClass": "worker",
+									"sid": 861095948336932,
+									"behaviorType": "Buscarutas"
+								}
+							],
+							"sid": 620293650964507
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "on-failed-to-find-path",
+									"objectClass": "worker",
+									"sid": 605878869027352,
+									"behaviorType": "Buscarutas"
+								}
+							],
+							"actions": [
+								{
+									"id": "set-size",
+									"objectClass": "worker",
+									"sid": 797360294690194,
+									"parameters": {
+										"width": "200",
+										"height": "200"
+									}
+								}
+							],
+							"sid": 244164774351117
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "on-arrived",
+									"objectClass": "worker",
+									"sid": 909476762675523,
+									"behaviorType": "Buscarutas"
+								}
+							],
+							"actions": [
+								{
+									"id": "set-animation",
+									"objectClass": "worker",
+									"sid": 139413488684640,
+									"parameters": {
+										"animation": "\"idle\"",
+										"from": "beginning"
+									}
+								}
+							],
+							"sid": 956546099556624,
+							"children": [
+								{
+									"eventType": "block",
+									"conditions": [
+										{
+											"id": "pick-random-instance",
+											"objectClass": "System",
+											"sid": 889669978360829,
+											"parameters": {
+												"object": "PuntosDeRefenciaWorker"
+											}
+										}
+									],
+									"actions": [
+										{
+											"id": "find-path",
+											"objectClass": "worker",
+											"sid": 256666150200009,
+											"behaviorType": "Buscarutas",
+											"parameters": {
+												"x": "PuntosDeRefenciaWorker.x",
+												"y": "PuntosDeRefenciaWorker.y"
+											}
+										}
+									],
+									"sid": 174612415101972
+								}
+							]
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "on-created",
+									"objectClass": "worker",
+									"sid": 204600539623677
+								}
+							],
+							"actions": [
+								{
+									"id": "set-speed",
+									"objectClass": "worker",
+									"sid": 631884443008113,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"speed": "50+random(45)"
+									}
+								}
+							],
+							"sid": 666754806906514,
+							"children": [
+								{
+									"eventType": "block",
+									"conditions": [
+										{
+											"id": "pick-random-instance",
+											"objectClass": "System",
+											"sid": 523919281119168,
+											"parameters": {
+												"object": "PuntosDeRefenciaWorker"
+											}
+										}
+									],
+									"actions": [
+										{
+											"id": "find-path",
+											"objectClass": "worker",
+											"sid": 440202672473917,
+											"behaviorType": "Buscarutas",
+											"parameters": {
+												"x": "PuntosDeRefenciaWorker.x",
+												"y": "PuntosDeRefenciaWorker.y"
+											}
+										}
+									],
+									"sid": 281472263842454
+								}
+							]
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "is-moving-along-path",
+									"objectClass": "worker",
+									"sid": 342641306139299,
+									"behaviorType": "Buscarutas"
+								}
+							],
+							"actions": [
+								{
+									"id": "set-animation",
+									"objectClass": "worker",
+									"sid": 115198899870030,
+									"parameters": {
+										"animation": "\"caminar\"",
+										"from": "beginning"
+									}
+								}
+							],
+							"sid": 722227103555546
+						},
+						{
+							"eventType": "block",
+							"conditions": [
+								{
+									"id": "compare-speed",
+									"objectClass": "worker",
+									"sid": 627185658984666,
+									"behaviorType": "Buscarutas",
+									"parameters": {
+										"comparison": 0,
+										"speed": "0"
+									}
+								}
+							],
+							"actions": [
+								{
+									"id": "set-animation",
+									"objectClass": "worker",
+									"sid": 562573808339537,
+									"parameters": {
+										"animation": "\"idle\"",
+										"from": "beginning"
+									}
+								}
+							],
+							"sid": 152718207460584
+						}
+					],
+					"sid": 845075169488585
 				}
 			],
 			"sid": 930586386920194

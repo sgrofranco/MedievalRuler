@@ -1,0 +1,80 @@
+{
+	"name": "Logica Menu",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-touching-object",
+					"objectClass": "Touch",
+					"sid": 341742561657507,
+					"parameters": {
+						"object": "start"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation",
+					"objectClass": "start",
+					"sid": 317505030187933,
+					"parameters": {
+						"animation": "\"presionado\"",
+						"from": "beginning"
+					}
+				}
+			],
+			"sid": 627207746855156,
+			"children": [
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "on-any-touch-end",
+							"objectClass": "Touch",
+							"sid": 569344559242867
+						}
+					],
+					"actions": [
+						{
+							"id": "go-to-layout-by-name",
+							"objectClass": "System",
+							"sid": 385655216634878,
+							"parameters": {
+								"layout": "choose(\"Escena 1\",\"Escena 2\")"
+							}
+						}
+					],
+					"sid": 679474274419064
+				}
+			]
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-touching-object",
+					"objectClass": "Touch",
+					"sid": 169744073668692,
+					"parameters": {
+						"object": "start"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation",
+					"objectClass": "start",
+					"sid": 961853184375954,
+					"parameters": {
+						"animation": "\"noPresionado\"",
+						"from": "beginning"
+					}
+				}
+			],
+			"sid": 573012056222238
+		}
+	],
+	"sid": 801325420934839
+}

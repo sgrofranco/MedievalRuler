@@ -1,5 +1,5 @@
 {
-	"name": "Escena 1",
+	"name": "Escena 2",
 	"layers": [
 		{
 			"name": "Fondo",
@@ -15,7 +15,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 165,
+					"uid": 807,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -36,7 +36,7 @@
 					}
 				}
 			],
-			"sid": 103697422450347,
+			"sid": 217142727062859,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -78,7 +78,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 172,
+					"uid": 808,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -107,7 +107,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 173,
+					"uid": 809,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -136,7 +136,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 174,
+					"uid": 810,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -165,7 +165,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 175,
+					"uid": 811,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -194,7 +194,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 176,
+					"uid": 812,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -223,7 +223,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 177,
+					"uid": 813,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -252,7 +252,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 178,
+					"uid": 814,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -281,7 +281,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 179,
+					"uid": 815,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -310,7 +310,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 184,
+					"uid": 816,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -339,7 +339,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 185,
+					"uid": 817,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -368,7 +368,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 186,
+					"uid": 818,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -397,7 +397,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 187,
+					"uid": 819,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -426,7 +426,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 188,
+					"uid": 820,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -455,7 +455,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 189,
+					"uid": 821,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -484,7 +484,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 20,
+					"uid": 822,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -513,7 +513,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 2,
+					"uid": 823,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -542,7 +542,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 12,
+					"uid": 824,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -571,7 +571,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 13,
+					"uid": 825,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -600,7 +600,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 14,
+					"uid": 826,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -629,7 +629,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 15,
+					"uid": 827,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -658,7 +658,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 16,
+					"uid": 828,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -687,7 +687,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 17,
+					"uid": 829,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -716,7 +716,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 21,
+					"uid": 830,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -745,7 +745,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 22,
+					"uid": 831,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -774,7 +774,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 23,
+					"uid": 832,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -803,7 +803,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 24,
+					"uid": 833,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -832,7 +832,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 25,
+					"uid": 834,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -861,7 +861,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 26,
+					"uid": 835,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -890,7 +890,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 27,
+					"uid": 836,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -919,7 +919,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 28,
+					"uid": 837,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -948,7 +948,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 29,
+					"uid": 838,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -977,7 +977,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 30,
+					"uid": 839,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1006,7 +1006,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 31,
+					"uid": 840,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1035,7 +1035,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 32,
+					"uid": 841,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1064,7 +1064,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 33,
+					"uid": 842,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1093,7 +1093,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 34,
+					"uid": 843,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1122,7 +1122,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 35,
+					"uid": 844,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1151,7 +1151,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 36,
+					"uid": 845,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1180,7 +1180,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 37,
+					"uid": 846,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1209,7 +1209,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 38,
+					"uid": 847,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1238,7 +1238,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 39,
+					"uid": 848,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1267,7 +1267,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 41,
+					"uid": 849,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1296,7 +1296,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 45,
+					"uid": 850,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1325,7 +1325,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 50,
+					"uid": 851,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1354,7 +1354,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 103,
+					"uid": 852,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1383,7 +1383,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 156,
+					"uid": 853,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1412,7 +1412,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 162,
+					"uid": 854,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1441,7 +1441,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 196,
+					"uid": 855,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1470,7 +1470,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 40,
+					"uid": 856,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1499,7 +1499,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 6,
+					"uid": 857,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1528,7 +1528,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 42,
+					"uid": 858,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1557,7 +1557,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 43,
+					"uid": 859,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1586,7 +1586,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 44,
+					"uid": 860,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1615,7 +1615,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 47,
+					"uid": 861,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1644,7 +1644,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 49,
+					"uid": 862,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1673,7 +1673,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 51,
+					"uid": 863,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1702,7 +1702,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 53,
+					"uid": 864,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1731,7 +1731,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 56,
+					"uid": 865,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1760,7 +1760,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 102,
+					"uid": 866,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1789,7 +1789,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 104,
+					"uid": 867,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1818,7 +1818,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 423,
+					"uid": 868,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1847,7 +1847,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 424,
+					"uid": 869,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1876,7 +1876,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 492,
+					"uid": 870,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1905,7 +1905,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 493,
+					"uid": 871,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1934,7 +1934,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 494,
+					"uid": 872,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1963,7 +1963,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 550,
+					"uid": 873,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -1992,7 +1992,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 58,
+					"uid": 874,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2021,7 +2021,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 59,
+					"uid": 875,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2050,7 +2050,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 68,
+					"uid": 876,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2079,7 +2079,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 69,
+					"uid": 877,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2108,7 +2108,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 70,
+					"uid": 878,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2137,7 +2137,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 71,
+					"uid": 879,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2166,7 +2166,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 72,
+					"uid": 880,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2195,7 +2195,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 73,
+					"uid": 881,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2224,7 +2224,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 74,
+					"uid": 882,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2253,7 +2253,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 78,
+					"uid": 883,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2282,7 +2282,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 79,
+					"uid": 884,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2311,7 +2311,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 80,
+					"uid": 885,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2340,7 +2340,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 81,
+					"uid": 886,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2369,7 +2369,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 82,
+					"uid": 887,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2398,7 +2398,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 83,
+					"uid": 888,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2427,7 +2427,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 84,
+					"uid": 889,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2456,7 +2456,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 106,
+					"uid": 890,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2485,7 +2485,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 107,
+					"uid": 891,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2514,7 +2514,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 108,
+					"uid": 892,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2543,7 +2543,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 109,
+					"uid": 893,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2572,7 +2572,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 157,
+					"uid": 894,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2601,7 +2601,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 158,
+					"uid": 895,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2630,7 +2630,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 159,
+					"uid": 896,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2659,7 +2659,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 160,
+					"uid": 897,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2688,7 +2688,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 161,
+					"uid": 898,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2717,7 +2717,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 231,
+					"uid": 899,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2746,7 +2746,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 362,
+					"uid": 900,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2775,7 +2775,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 363,
+					"uid": 901,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2804,7 +2804,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 364,
+					"uid": 902,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2833,7 +2833,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 365,
+					"uid": 903,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2862,7 +2862,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 366,
+					"uid": 904,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2891,7 +2891,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 346,
+					"uid": 905,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2920,7 +2920,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 442,
+					"uid": 906,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2949,7 +2949,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 729,
+					"uid": 907,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -2970,7 +2970,7 @@
 					}
 				}
 			],
-			"sid": 779209669051579,
+			"sid": 686871918972075,
 			"effectTypes": [],
 			"isInitiallyVisible": false,
 			"isInitiallyInteractive": true,
@@ -3012,7 +3012,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 46,
+					"uid": 908,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3041,7 +3041,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 48,
+					"uid": 909,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3070,7 +3070,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 52,
+					"uid": 910,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3099,7 +3099,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 197,
+					"uid": 911,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3128,7 +3128,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 337,
+					"uid": 912,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3157,7 +3157,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 338,
+					"uid": 913,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3186,7 +3186,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 339,
+					"uid": 914,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3215,7 +3215,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 341,
+					"uid": 915,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3244,7 +3244,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 345,
+					"uid": 916,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3273,7 +3273,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 347,
+					"uid": 917,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3302,7 +3302,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 348,
+					"uid": 918,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3331,7 +3331,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 349,
+					"uid": 919,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3360,7 +3360,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 350,
+					"uid": 920,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3389,7 +3389,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 351,
+					"uid": 921,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3418,7 +3418,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 352,
+					"uid": 922,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3447,7 +3447,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 353,
+					"uid": 923,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3476,7 +3476,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 354,
+					"uid": 924,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3505,7 +3505,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 355,
+					"uid": 925,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3534,7 +3534,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 356,
+					"uid": 926,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3563,7 +3563,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 357,
+					"uid": 927,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3592,7 +3592,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 358,
+					"uid": 928,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3621,7 +3621,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 359,
+					"uid": 929,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3650,7 +3650,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 360,
+					"uid": 930,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3679,7 +3679,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 4,
+					"uid": 931,
 					"instanceVariables": {},
 					"behaviors": {
 						"Tweeninterpolación": {
@@ -3714,7 +3714,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 8,
+					"uid": 932,
 					"instanceVariables": {},
 					"behaviors": {
 						"Tweeninterpolación": {
@@ -3749,7 +3749,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 18,
+					"uid": 933,
 					"instanceVariables": {},
 					"behaviors": {
 						"Pin": {
@@ -3784,7 +3784,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 19,
+					"uid": 934,
 					"instanceVariables": {},
 					"behaviors": {
 						"ScrollTo": {
@@ -3846,7 +3846,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 361,
+					"uid": 935,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3881,7 +3881,7 @@
 						"tag": "",
 						"live-preview": false
 					},
-					"uid": 7,
+					"uid": 936,
 					"instanceVariables": {},
 					"behaviors": {
 						"Tweeninterpolación": {
@@ -3926,7 +3926,7 @@
 						"tag": "",
 						"live-preview": false
 					},
-					"uid": 3,
+					"uid": 937,
 					"instanceVariables": {},
 					"behaviors": {
 						"Pegado": {
@@ -3965,7 +3965,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 367,
+					"uid": 938,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -3994,7 +3994,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 371,
+					"uid": 939,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4030,7 +4030,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 344,
+					"uid": 940,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4066,7 +4066,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 372,
+					"uid": 941,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4102,7 +4102,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 373,
+					"uid": 942,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4138,7 +4138,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 374,
+					"uid": 943,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4174,7 +4174,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 375,
+					"uid": 944,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4210,7 +4210,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 376,
+					"uid": 945,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4246,7 +4246,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 377,
+					"uid": 946,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4282,7 +4282,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 378,
+					"uid": 947,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4318,7 +4318,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 379,
+					"uid": 948,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4354,7 +4354,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 380,
+					"uid": 949,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4390,7 +4390,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 381,
+					"uid": 950,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4426,7 +4426,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 382,
+					"uid": 951,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4462,7 +4462,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 383,
+					"uid": 952,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4498,7 +4498,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 384,
+					"uid": 953,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4534,7 +4534,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 385,
+					"uid": 954,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4570,7 +4570,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 386,
+					"uid": 955,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4606,7 +4606,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 387,
+					"uid": 956,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4642,7 +4642,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 388,
+					"uid": 957,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4678,7 +4678,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 389,
+					"uid": 958,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4714,7 +4714,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 390,
+					"uid": 959,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4750,7 +4750,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 391,
+					"uid": 960,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4786,7 +4786,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 392,
+					"uid": 961,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4822,7 +4822,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 393,
+					"uid": 962,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4858,7 +4858,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 394,
+					"uid": 963,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4894,7 +4894,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 395,
+					"uid": 964,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4930,7 +4930,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 396,
+					"uid": 965,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -4966,7 +4966,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 397,
+					"uid": 966,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5002,7 +5002,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 400,
+					"uid": 967,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5038,7 +5038,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 401,
+					"uid": 968,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5074,7 +5074,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 402,
+					"uid": 969,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5110,7 +5110,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 403,
+					"uid": 970,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5146,7 +5146,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 404,
+					"uid": 971,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5182,7 +5182,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 405,
+					"uid": 972,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5218,7 +5218,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 406,
+					"uid": 973,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5254,7 +5254,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 409,
+					"uid": 974,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5290,7 +5290,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 410,
+					"uid": 975,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5326,7 +5326,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 411,
+					"uid": 976,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5362,7 +5362,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 412,
+					"uid": 977,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5398,7 +5398,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 413,
+					"uid": 978,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5434,7 +5434,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 414,
+					"uid": 979,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5470,7 +5470,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 415,
+					"uid": 980,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5506,7 +5506,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 419,
+					"uid": 981,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5542,7 +5542,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 420,
+					"uid": 982,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5578,7 +5578,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 421,
+					"uid": 983,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5614,7 +5614,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 422,
+					"uid": 984,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -5650,7 +5650,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 425,
+					"uid": 985,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -5694,7 +5694,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 426,
+					"uid": 986,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -5723,7 +5723,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 427,
+					"uid": 987,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -5752,7 +5752,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 428,
+					"uid": 988,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -5781,7 +5781,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 429,
+					"uid": 989,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -5810,7 +5810,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 430,
+					"uid": 990,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -5839,7 +5839,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 431,
+					"uid": 991,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -5868,7 +5868,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 432,
+					"uid": 992,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -5897,7 +5897,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 416,
+					"uid": 993,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -5941,7 +5941,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 417,
+					"uid": 994,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -5985,7 +5985,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 418,
+					"uid": 995,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -6029,7 +6029,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 433,
+					"uid": 996,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -6073,7 +6073,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 434,
+					"uid": 997,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -6102,7 +6102,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 435,
+					"uid": 998,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -6131,7 +6131,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 436,
+					"uid": 999,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -6160,7 +6160,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 437,
+					"uid": 1000,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -6189,7 +6189,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 438,
+					"uid": 1001,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -6233,7 +6233,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 439,
+					"uid": 1002,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -6277,7 +6277,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 440,
+					"uid": 1003,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -6321,7 +6321,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 441,
+					"uid": 1004,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -6365,7 +6365,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 443,
+					"uid": 1005,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6401,7 +6401,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 444,
+					"uid": 1006,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6437,7 +6437,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 445,
+					"uid": 1007,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6473,7 +6473,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 398,
+					"uid": 1008,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6509,7 +6509,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 446,
+					"uid": 1009,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6545,7 +6545,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 447,
+					"uid": 1010,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6581,7 +6581,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 448,
+					"uid": 1011,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6617,7 +6617,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 449,
+					"uid": 1012,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6653,7 +6653,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 450,
+					"uid": 1013,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6689,7 +6689,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 451,
+					"uid": 1014,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6725,7 +6725,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 452,
+					"uid": 1015,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6761,7 +6761,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 399,
+					"uid": 1016,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6797,7 +6797,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 407,
+					"uid": 1017,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6833,7 +6833,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 408,
+					"uid": 1018,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6869,7 +6869,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 453,
+					"uid": 1019,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6905,7 +6905,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 454,
+					"uid": 1020,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6941,7 +6941,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 455,
+					"uid": 1021,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -6977,7 +6977,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 456,
+					"uid": 1022,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7013,7 +7013,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 457,
+					"uid": 1023,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7049,7 +7049,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 458,
+					"uid": 1024,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7085,7 +7085,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 459,
+					"uid": 1025,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7121,7 +7121,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 460,
+					"uid": 1026,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7157,7 +7157,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 461,
+					"uid": 1027,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7193,7 +7193,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 462,
+					"uid": 1028,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7229,7 +7229,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 463,
+					"uid": 1029,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7265,7 +7265,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 464,
+					"uid": 1030,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7301,7 +7301,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 465,
+					"uid": 1031,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7337,7 +7337,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 466,
+					"uid": 1032,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7373,7 +7373,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 467,
+					"uid": 1033,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7409,7 +7409,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 468,
+					"uid": 1034,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7445,7 +7445,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 469,
+					"uid": 1035,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7481,7 +7481,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 470,
+					"uid": 1036,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7517,7 +7517,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 471,
+					"uid": 1037,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7553,7 +7553,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 472,
+					"uid": 1038,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7589,7 +7589,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 473,
+					"uid": 1039,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7625,7 +7625,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 474,
+					"uid": 1040,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7661,7 +7661,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 475,
+					"uid": 1041,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7697,7 +7697,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 476,
+					"uid": 1042,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7733,7 +7733,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 478,
+					"uid": 1043,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7769,7 +7769,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 479,
+					"uid": 1044,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7805,7 +7805,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 480,
+					"uid": 1045,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7841,7 +7841,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 481,
+					"uid": 1046,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7877,7 +7877,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 482,
+					"uid": 1047,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7913,7 +7913,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 483,
+					"uid": 1048,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -7949,7 +7949,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 485,
+					"uid": 1049,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -7978,7 +7978,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 486,
+					"uid": 1050,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -8007,7 +8007,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 487,
+					"uid": 1051,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -8036,7 +8036,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 488,
+					"uid": 1052,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -8065,7 +8065,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 489,
+					"uid": 1053,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -8094,7 +8094,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 490,
+					"uid": 1054,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -8123,7 +8123,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 491,
+					"uid": 1055,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -8152,7 +8152,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 495,
+					"uid": 1056,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8196,7 +8196,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 496,
+					"uid": 1057,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8240,7 +8240,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 497,
+					"uid": 1058,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8284,7 +8284,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 498,
+					"uid": 1059,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8328,7 +8328,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 499,
+					"uid": 1060,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8372,7 +8372,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 500,
+					"uid": 1061,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8416,7 +8416,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 501,
+					"uid": 1062,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8460,7 +8460,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 502,
+					"uid": 1063,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8504,7 +8504,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 503,
+					"uid": 1064,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8548,7 +8548,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 504,
+					"uid": 1065,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8592,7 +8592,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 505,
+					"uid": 1066,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8636,7 +8636,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 506,
+					"uid": 1067,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8680,7 +8680,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 508,
+					"uid": 1068,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -8716,7 +8716,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 509,
+					"uid": 1069,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8760,7 +8760,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 510,
+					"uid": 1070,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8804,7 +8804,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 511,
+					"uid": 1071,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8848,7 +8848,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 512,
+					"uid": 1072,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8892,7 +8892,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 513,
+					"uid": 1073,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8936,7 +8936,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 514,
+					"uid": 1074,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -8980,7 +8980,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 515,
+					"uid": 1075,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9024,7 +9024,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 516,
+					"uid": 1076,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9068,7 +9068,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 517,
+					"uid": 1077,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9112,7 +9112,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 518,
+					"uid": 1078,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9156,7 +9156,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 519,
+					"uid": 1079,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9200,7 +9200,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 520,
+					"uid": 1080,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9244,7 +9244,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 521,
+					"uid": 1081,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9288,7 +9288,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 522,
+					"uid": 1082,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9332,7 +9332,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 523,
+					"uid": 1083,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9376,7 +9376,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 524,
+					"uid": 1084,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9405,7 +9405,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 527,
+					"uid": 1085,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9434,7 +9434,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 539,
+					"uid": 1086,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -9478,7 +9478,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 543,
+					"uid": 1087,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9507,7 +9507,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 544,
+					"uid": 1088,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9536,7 +9536,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 546,
+					"uid": 1089,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9565,7 +9565,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 547,
+					"uid": 1090,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9594,7 +9594,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 548,
+					"uid": 1091,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9623,7 +9623,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 549,
+					"uid": 1092,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -9652,7 +9652,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 57,
+					"uid": 1093,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -9705,7 +9705,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 60,
+					"uid": 1094,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -9758,7 +9758,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 61,
+					"uid": 1095,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -9811,7 +9811,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 62,
+					"uid": 1096,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -9864,7 +9864,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 63,
+					"uid": 1097,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -9917,7 +9917,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 64,
+					"uid": 1098,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -9970,7 +9970,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 65,
+					"uid": 1099,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10023,7 +10023,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 66,
+					"uid": 1100,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10076,7 +10076,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 67,
+					"uid": 1101,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10129,7 +10129,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 75,
+					"uid": 1102,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10182,7 +10182,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 76,
+					"uid": 1103,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10235,7 +10235,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 77,
+					"uid": 1104,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10288,7 +10288,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 85,
+					"uid": 1105,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10341,7 +10341,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 86,
+					"uid": 1106,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10394,7 +10394,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 87,
+					"uid": 1107,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10447,7 +10447,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 88,
+					"uid": 1108,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10500,7 +10500,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 89,
+					"uid": 1109,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10553,7 +10553,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 90,
+					"uid": 1110,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10606,7 +10606,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 91,
+					"uid": 1111,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10659,7 +10659,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 92,
+					"uid": 1112,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10712,7 +10712,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 93,
+					"uid": 1113,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10765,7 +10765,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 94,
+					"uid": 1114,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10818,7 +10818,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 95,
+					"uid": 1115,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10871,7 +10871,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 96,
+					"uid": 1116,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10924,7 +10924,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 97,
+					"uid": 1117,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -10977,7 +10977,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 98,
+					"uid": 1118,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11030,7 +11030,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 99,
+					"uid": 1119,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11083,7 +11083,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 100,
+					"uid": 1120,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11136,7 +11136,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 110,
+					"uid": 1121,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11189,7 +11189,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 111,
+					"uid": 1122,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11242,7 +11242,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 112,
+					"uid": 1123,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11295,7 +11295,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 113,
+					"uid": 1124,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11348,7 +11348,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 114,
+					"uid": 1125,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11401,7 +11401,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 115,
+					"uid": 1126,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11454,7 +11454,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 116,
+					"uid": 1127,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11507,7 +11507,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 117,
+					"uid": 1128,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11560,7 +11560,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 118,
+					"uid": 1129,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11613,7 +11613,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 119,
+					"uid": 1130,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11666,7 +11666,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 120,
+					"uid": 1131,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -11719,7 +11719,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 526,
+					"uid": 1132,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -11763,7 +11763,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 528,
+					"uid": 1133,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -11807,7 +11807,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 529,
+					"uid": 1134,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -11851,7 +11851,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 530,
+					"uid": 1135,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -11895,7 +11895,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 531,
+					"uid": 1136,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -11939,7 +11939,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 532,
+					"uid": 1137,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -11983,7 +11983,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 533,
+					"uid": 1138,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12027,7 +12027,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 534,
+					"uid": 1139,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12071,7 +12071,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 535,
+					"uid": 1140,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12115,7 +12115,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 536,
+					"uid": 1141,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12159,7 +12159,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 537,
+					"uid": 1142,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12203,7 +12203,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 541,
+					"uid": 1143,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12247,7 +12247,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 542,
+					"uid": 1144,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12291,7 +12291,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 545,
+					"uid": 1145,
 					"instanceVariables": {},
 					"behaviors": {
 						"Buscarutas": {
@@ -12335,7 +12335,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 538,
+					"uid": 1146,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -12364,7 +12364,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 540,
+					"uid": 1147,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -12393,7 +12393,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 551,
+					"uid": 1148,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12429,7 +12429,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 552,
+					"uid": 1149,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12465,7 +12465,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 553,
+					"uid": 1150,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12501,7 +12501,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 554,
+					"uid": 1151,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12537,7 +12537,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 555,
+					"uid": 1152,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12573,7 +12573,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 556,
+					"uid": 1153,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12609,7 +12609,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 557,
+					"uid": 1154,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12645,7 +12645,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 558,
+					"uid": 1155,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12681,7 +12681,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 559,
+					"uid": 1156,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12717,7 +12717,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 560,
+					"uid": 1157,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12753,7 +12753,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 561,
+					"uid": 1158,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12789,7 +12789,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 562,
+					"uid": 1159,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12825,7 +12825,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 563,
+					"uid": 1160,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12861,7 +12861,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 564,
+					"uid": 1161,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12897,7 +12897,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 565,
+					"uid": 1162,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12933,7 +12933,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 566,
+					"uid": 1163,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -12969,7 +12969,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 567,
+					"uid": 1164,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13005,7 +13005,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 568,
+					"uid": 1165,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13041,7 +13041,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 582,
+					"uid": 1166,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13077,7 +13077,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 583,
+					"uid": 1167,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13113,7 +13113,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 584,
+					"uid": 1168,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13149,7 +13149,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 585,
+					"uid": 1169,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13185,7 +13185,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 586,
+					"uid": 1170,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13221,7 +13221,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 587,
+					"uid": 1171,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13257,7 +13257,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 588,
+					"uid": 1172,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13293,7 +13293,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 589,
+					"uid": 1173,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13329,7 +13329,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 590,
+					"uid": 1174,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13365,7 +13365,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 591,
+					"uid": 1175,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13401,7 +13401,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 592,
+					"uid": 1176,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13437,7 +13437,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 593,
+					"uid": 1177,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13473,7 +13473,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 594,
+					"uid": 1178,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13509,7 +13509,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 595,
+					"uid": 1179,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13545,7 +13545,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 507,
+					"uid": 1180,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13581,7 +13581,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 596,
+					"uid": 1181,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13617,7 +13617,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 597,
+					"uid": 1182,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13653,7 +13653,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 598,
+					"uid": 1183,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13689,7 +13689,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 599,
+					"uid": 1184,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13725,7 +13725,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 600,
+					"uid": 1185,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13761,7 +13761,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 601,
+					"uid": 1186,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13797,7 +13797,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 602,
+					"uid": 1187,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13833,7 +13833,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 603,
+					"uid": 1188,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13869,7 +13869,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 604,
+					"uid": 1189,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13905,7 +13905,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 605,
+					"uid": 1190,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13941,7 +13941,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 606,
+					"uid": 1191,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -13977,7 +13977,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 607,
+					"uid": 1192,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14013,7 +14013,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 608,
+					"uid": 1193,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14049,7 +14049,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 609,
+					"uid": 1194,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14085,7 +14085,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 610,
+					"uid": 1195,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14121,7 +14121,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 611,
+					"uid": 1196,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14157,7 +14157,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 612,
+					"uid": 1197,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14193,7 +14193,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 613,
+					"uid": 1198,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14229,7 +14229,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 616,
+					"uid": 1199,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14265,7 +14265,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 617,
+					"uid": 1200,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14301,7 +14301,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 618,
+					"uid": 1201,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14337,7 +14337,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 619,
+					"uid": 1202,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14373,7 +14373,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 620,
+					"uid": 1203,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14409,7 +14409,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 621,
+					"uid": 1204,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14445,7 +14445,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 622,
+					"uid": 1205,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14481,7 +14481,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 623,
+					"uid": 1206,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -14510,7 +14510,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 624,
+					"uid": 1207,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -14539,7 +14539,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 625,
+					"uid": 1208,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14575,7 +14575,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 626,
+					"uid": 1209,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14611,7 +14611,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 627,
+					"uid": 1210,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14647,7 +14647,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 628,
+					"uid": 1211,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14683,7 +14683,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 629,
+					"uid": 1212,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14719,7 +14719,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 630,
+					"uid": 1213,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14755,7 +14755,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 631,
+					"uid": 1214,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14791,7 +14791,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 632,
+					"uid": 1215,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14827,7 +14827,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 633,
+					"uid": 1216,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14863,7 +14863,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 634,
+					"uid": 1217,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14899,7 +14899,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 635,
+					"uid": 1218,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14935,7 +14935,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 636,
+					"uid": 1219,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -14971,7 +14971,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 637,
+					"uid": 1220,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15007,7 +15007,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 638,
+					"uid": 1221,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15043,7 +15043,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 639,
+					"uid": 1222,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15079,7 +15079,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 640,
+					"uid": 1223,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15115,7 +15115,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 641,
+					"uid": 1224,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15151,7 +15151,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 642,
+					"uid": 1225,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15187,7 +15187,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 643,
+					"uid": 1226,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15223,7 +15223,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 644,
+					"uid": 1227,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15259,7 +15259,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 645,
+					"uid": 1228,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15295,7 +15295,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 646,
+					"uid": 1229,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15331,7 +15331,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 647,
+					"uid": 1230,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15367,7 +15367,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 648,
+					"uid": 1231,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15403,7 +15403,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 649,
+					"uid": 1232,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15439,7 +15439,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 650,
+					"uid": 1233,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15475,7 +15475,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 651,
+					"uid": 1234,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15511,7 +15511,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 652,
+					"uid": 1235,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15547,7 +15547,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 653,
+					"uid": 1236,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15583,7 +15583,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 654,
+					"uid": 1237,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15619,7 +15619,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 655,
+					"uid": 1238,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15655,7 +15655,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 656,
+					"uid": 1239,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15691,7 +15691,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 657,
+					"uid": 1240,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15727,7 +15727,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 658,
+					"uid": 1241,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15763,7 +15763,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 659,
+					"uid": 1242,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15799,7 +15799,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 660,
+					"uid": 1243,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15835,7 +15835,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 661,
+					"uid": 1244,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15871,7 +15871,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 662,
+					"uid": 1245,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15907,7 +15907,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 663,
+					"uid": 1246,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15943,7 +15943,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 694,
+					"uid": 1247,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -15979,7 +15979,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 695,
+					"uid": 1248,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16015,7 +16015,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 696,
+					"uid": 1249,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16051,7 +16051,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 697,
+					"uid": 1250,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16087,7 +16087,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 698,
+					"uid": 1251,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16123,7 +16123,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 699,
+					"uid": 1252,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16159,7 +16159,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 700,
+					"uid": 1253,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16195,7 +16195,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 701,
+					"uid": 1254,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16231,7 +16231,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 702,
+					"uid": 1255,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16267,7 +16267,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 703,
+					"uid": 1256,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16303,7 +16303,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 704,
+					"uid": 1257,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16339,7 +16339,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 705,
+					"uid": 1258,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16375,7 +16375,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 706,
+					"uid": 1259,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16411,7 +16411,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 707,
+					"uid": 1260,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16447,7 +16447,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 708,
+					"uid": 1261,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16483,7 +16483,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 709,
+					"uid": 1262,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16519,7 +16519,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 710,
+					"uid": 1263,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16555,7 +16555,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 711,
+					"uid": 1264,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16591,7 +16591,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 712,
+					"uid": 1265,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16627,7 +16627,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 713,
+					"uid": 1266,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16663,7 +16663,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 714,
+					"uid": 1267,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16699,7 +16699,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 715,
+					"uid": 1268,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16735,7 +16735,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 716,
+					"uid": 1269,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16771,7 +16771,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 717,
+					"uid": 1270,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16807,7 +16807,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 718,
+					"uid": 1271,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16843,7 +16843,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 719,
+					"uid": 1272,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16879,7 +16879,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 720,
+					"uid": 1273,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16915,7 +16915,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 721,
+					"uid": 1274,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16951,7 +16951,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 722,
+					"uid": 1275,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -16987,7 +16987,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 723,
+					"uid": 1276,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -17023,7 +17023,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 724,
+					"uid": 1277,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -17059,7 +17059,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 725,
+					"uid": 1278,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -17095,7 +17095,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 726,
+					"uid": 1279,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -17148,7 +17148,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 727,
+					"uid": 1280,
 					"instanceVariables": {
 						"Faccion": 0
 					},
@@ -17201,7 +17201,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 728,
+					"uid": 1281,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17230,7 +17230,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 730,
+					"uid": 1282,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -17266,7 +17266,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 731,
+					"uid": 1283,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -17302,7 +17302,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 734,
+					"uid": 1284,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17331,7 +17331,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 735,
+					"uid": 1285,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17360,7 +17360,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 736,
+					"uid": 1286,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17389,7 +17389,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 737,
+					"uid": 1287,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17418,7 +17418,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 738,
+					"uid": 1288,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17447,7 +17447,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 739,
+					"uid": 1289,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17476,7 +17476,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 740,
+					"uid": 1290,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17505,7 +17505,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 741,
+					"uid": 1291,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17534,7 +17534,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 742,
+					"uid": 1292,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17563,7 +17563,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 743,
+					"uid": 1293,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17592,7 +17592,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 744,
+					"uid": 1294,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17621,7 +17621,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 745,
+					"uid": 1295,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17650,7 +17650,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 746,
+					"uid": 1296,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17679,7 +17679,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 747,
+					"uid": 1297,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17708,7 +17708,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 748,
+					"uid": 1298,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17737,7 +17737,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 749,
+					"uid": 1299,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17766,7 +17766,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 750,
+					"uid": 1300,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17795,7 +17795,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 751,
+					"uid": 1301,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17824,7 +17824,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 752,
+					"uid": 1302,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17853,7 +17853,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 753,
+					"uid": 1303,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17882,7 +17882,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 754,
+					"uid": 1304,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17911,7 +17911,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 755,
+					"uid": 1305,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17940,7 +17940,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 756,
+					"uid": 1306,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17969,7 +17969,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 757,
+					"uid": 1307,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -17998,7 +17998,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 758,
+					"uid": 1308,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18027,7 +18027,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 759,
+					"uid": 1309,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18056,7 +18056,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 760,
+					"uid": 1310,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18085,7 +18085,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 761,
+					"uid": 1311,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18114,7 +18114,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 762,
+					"uid": 1312,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18143,7 +18143,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 763,
+					"uid": 1313,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18172,7 +18172,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 764,
+					"uid": 1314,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18201,7 +18201,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 765,
+					"uid": 1315,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18230,7 +18230,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 766,
+					"uid": 1316,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18259,7 +18259,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 767,
+					"uid": 1317,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18288,7 +18288,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 768,
+					"uid": 1318,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18317,7 +18317,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 769,
+					"uid": 1319,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18346,7 +18346,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 770,
+					"uid": 1320,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18375,7 +18375,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 771,
+					"uid": 1321,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18404,7 +18404,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 772,
+					"uid": 1322,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18433,7 +18433,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 773,
+					"uid": 1323,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18462,7 +18462,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 774,
+					"uid": 1324,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18491,7 +18491,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 775,
+					"uid": 1325,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18520,7 +18520,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 776,
+					"uid": 1326,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18549,7 +18549,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 777,
+					"uid": 1327,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18578,7 +18578,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 778,
+					"uid": 1328,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18607,7 +18607,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 779,
+					"uid": 1329,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18636,7 +18636,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 780,
+					"uid": 1330,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18665,7 +18665,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 781,
+					"uid": 1331,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18694,7 +18694,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 782,
+					"uid": 1332,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18723,7 +18723,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 783,
+					"uid": 1333,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18752,7 +18752,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 784,
+					"uid": 1334,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18781,7 +18781,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 785,
+					"uid": 1335,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18810,7 +18810,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 786,
+					"uid": 1336,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18839,7 +18839,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 787,
+					"uid": 1337,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18868,7 +18868,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 788,
+					"uid": 1338,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18897,7 +18897,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 789,
+					"uid": 1339,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18926,7 +18926,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 790,
+					"uid": 1340,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18955,7 +18955,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 791,
+					"uid": 1341,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -18984,7 +18984,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 792,
+					"uid": 1342,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19013,7 +19013,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 793,
+					"uid": 1343,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19042,7 +19042,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 794,
+					"uid": 1344,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19071,7 +19071,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 795,
+					"uid": 1345,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19100,7 +19100,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 796,
+					"uid": 1346,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19129,7 +19129,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 797,
+					"uid": 1347,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19158,7 +19158,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 798,
+					"uid": 1348,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19187,7 +19187,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 799,
+					"uid": 1349,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19216,7 +19216,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 800,
+					"uid": 1350,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19245,7 +19245,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 801,
+					"uid": 1351,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19274,7 +19274,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 802,
+					"uid": 1352,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19303,7 +19303,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 803,
+					"uid": 1353,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -19332,7 +19332,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 54,
+					"uid": 1354,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19375,7 +19375,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 105,
+					"uid": 1355,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19418,7 +19418,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 166,
+					"uid": 1356,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19461,7 +19461,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 167,
+					"uid": 1357,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19504,7 +19504,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 168,
+					"uid": 1358,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19547,7 +19547,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 169,
+					"uid": 1359,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19590,7 +19590,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 170,
+					"uid": 1360,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19633,7 +19633,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 171,
+					"uid": 1361,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19676,7 +19676,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 180,
+					"uid": 1362,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19719,7 +19719,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 181,
+					"uid": 1363,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19762,7 +19762,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 182,
+					"uid": 1364,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19805,7 +19805,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 190,
+					"uid": 1365,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19848,7 +19848,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 191,
+					"uid": 1366,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19891,7 +19891,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 192,
+					"uid": 1367,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19934,7 +19934,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 193,
+					"uid": 1368,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -19977,7 +19977,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 195,
+					"uid": 1369,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20020,7 +20020,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 198,
+					"uid": 1370,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20063,7 +20063,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 199,
+					"uid": 1371,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20106,7 +20106,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 200,
+					"uid": 1372,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20149,7 +20149,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 201,
+					"uid": 1373,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20192,7 +20192,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 202,
+					"uid": 1374,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20235,7 +20235,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 203,
+					"uid": 1375,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20278,7 +20278,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 204,
+					"uid": 1376,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20321,7 +20321,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 232,
+					"uid": 1377,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20364,7 +20364,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 141,
+					"uid": 1378,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20407,7 +20407,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 155,
+					"uid": 1379,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20450,7 +20450,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 137,
+					"uid": 1380,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20493,7 +20493,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 150,
+					"uid": 1381,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20536,7 +20536,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 151,
+					"uid": 1382,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20579,7 +20579,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 152,
+					"uid": 1383,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20622,7 +20622,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 146,
+					"uid": 1384,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20665,7 +20665,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 147,
+					"uid": 1385,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20708,7 +20708,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 148,
+					"uid": 1386,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20751,7 +20751,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 149,
+					"uid": 1387,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20794,7 +20794,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 143,
+					"uid": 1388,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20837,7 +20837,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 144,
+					"uid": 1389,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20880,7 +20880,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 145,
+					"uid": 1390,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20923,7 +20923,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 135,
+					"uid": 1391,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -20966,7 +20966,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 136,
+					"uid": 1392,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21009,7 +21009,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 133,
+					"uid": 1393,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21052,7 +21052,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 134,
+					"uid": 1394,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21095,7 +21095,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 130,
+					"uid": 1395,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21138,7 +21138,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 132,
+					"uid": 1396,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21181,7 +21181,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 126,
+					"uid": 1397,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21224,7 +21224,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 129,
+					"uid": 1398,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21267,7 +21267,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 121,
+					"uid": 1399,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21310,7 +21310,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 123,
+					"uid": 1400,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21353,7 +21353,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 140,
+					"uid": 1401,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21396,7 +21396,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 154,
+					"uid": 1402,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -21439,7 +21439,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 11,
+					"uid": 1403,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21482,7 +21482,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 194,
+					"uid": 1404,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21525,7 +21525,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 55,
+					"uid": 1405,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21568,7 +21568,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 205,
+					"uid": 1406,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21611,7 +21611,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 206,
+					"uid": 1407,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21654,7 +21654,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 207,
+					"uid": 1408,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21697,7 +21697,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 208,
+					"uid": 1409,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21740,7 +21740,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 209,
+					"uid": 1410,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21783,7 +21783,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 210,
+					"uid": 1411,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21826,7 +21826,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 211,
+					"uid": 1412,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21869,7 +21869,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 212,
+					"uid": 1413,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21912,7 +21912,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 213,
+					"uid": 1414,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21955,7 +21955,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 214,
+					"uid": 1415,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -21998,7 +21998,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 215,
+					"uid": 1416,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22041,7 +22041,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 216,
+					"uid": 1417,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22084,7 +22084,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 217,
+					"uid": 1418,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22127,7 +22127,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 218,
+					"uid": 1419,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22170,7 +22170,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 219,
+					"uid": 1420,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22213,7 +22213,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 220,
+					"uid": 1421,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22256,7 +22256,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 183,
+					"uid": 1422,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22299,7 +22299,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 221,
+					"uid": 1423,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22342,7 +22342,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 222,
+					"uid": 1424,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22385,7 +22385,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 223,
+					"uid": 1425,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22428,7 +22428,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 224,
+					"uid": 1426,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22471,7 +22471,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 225,
+					"uid": 1427,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22514,7 +22514,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 226,
+					"uid": 1428,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22557,7 +22557,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 227,
+					"uid": 1429,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22600,7 +22600,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 228,
+					"uid": 1430,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22643,7 +22643,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 229,
+					"uid": 1431,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22686,7 +22686,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 230,
+					"uid": 1432,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22729,7 +22729,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 233,
+					"uid": 1433,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22772,7 +22772,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 234,
+					"uid": 1434,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22815,7 +22815,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 235,
+					"uid": 1435,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22858,7 +22858,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 236,
+					"uid": 1436,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22901,7 +22901,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 237,
+					"uid": 1437,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22944,7 +22944,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 238,
+					"uid": 1438,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -22987,7 +22987,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 239,
+					"uid": 1439,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23030,7 +23030,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 240,
+					"uid": 1440,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23073,7 +23073,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 241,
+					"uid": 1441,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23116,7 +23116,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 242,
+					"uid": 1442,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23159,7 +23159,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 243,
+					"uid": 1443,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23202,7 +23202,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 244,
+					"uid": 1444,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23245,7 +23245,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 245,
+					"uid": 1445,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23288,7 +23288,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 246,
+					"uid": 1446,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23331,7 +23331,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 247,
+					"uid": 1447,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23374,7 +23374,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 248,
+					"uid": 1448,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23417,7 +23417,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 249,
+					"uid": 1449,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23460,7 +23460,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 250,
+					"uid": 1450,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23503,7 +23503,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 251,
+					"uid": 1451,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23546,7 +23546,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 252,
+					"uid": 1452,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23589,7 +23589,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 253,
+					"uid": 1453,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23632,7 +23632,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 254,
+					"uid": 1454,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23675,7 +23675,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 255,
+					"uid": 1455,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23718,7 +23718,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 256,
+					"uid": 1456,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23761,7 +23761,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 257,
+					"uid": 1457,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23804,7 +23804,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 258,
+					"uid": 1458,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23847,7 +23847,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 259,
+					"uid": 1459,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23890,7 +23890,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 260,
+					"uid": 1460,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23933,7 +23933,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 261,
+					"uid": 1461,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -23976,7 +23976,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 262,
+					"uid": 1462,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24019,7 +24019,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 263,
+					"uid": 1463,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24062,7 +24062,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 264,
+					"uid": 1464,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24105,7 +24105,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 265,
+					"uid": 1465,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24148,7 +24148,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 266,
+					"uid": 1466,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24191,7 +24191,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 267,
+					"uid": 1467,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24234,7 +24234,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 268,
+					"uid": 1468,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24277,7 +24277,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 269,
+					"uid": 1469,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24320,7 +24320,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 270,
+					"uid": 1470,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24363,7 +24363,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 271,
+					"uid": 1471,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24406,7 +24406,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 272,
+					"uid": 1472,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24449,7 +24449,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 273,
+					"uid": 1473,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24492,7 +24492,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 274,
+					"uid": 1474,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24535,7 +24535,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 275,
+					"uid": 1475,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24578,7 +24578,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 276,
+					"uid": 1476,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24621,7 +24621,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 277,
+					"uid": 1477,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24664,7 +24664,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 278,
+					"uid": 1478,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24707,7 +24707,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 279,
+					"uid": 1479,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24750,7 +24750,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 280,
+					"uid": 1480,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24793,7 +24793,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 281,
+					"uid": 1481,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24836,7 +24836,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 282,
+					"uid": 1482,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24879,7 +24879,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 283,
+					"uid": 1483,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24922,7 +24922,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 284,
+					"uid": 1484,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -24965,7 +24965,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 285,
+					"uid": 1485,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25008,7 +25008,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 286,
+					"uid": 1486,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25051,7 +25051,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 287,
+					"uid": 1487,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25094,7 +25094,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 288,
+					"uid": 1488,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25137,7 +25137,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 289,
+					"uid": 1489,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25180,7 +25180,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 290,
+					"uid": 1490,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25223,7 +25223,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 291,
+					"uid": 1491,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25266,7 +25266,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 292,
+					"uid": 1492,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25309,7 +25309,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 293,
+					"uid": 1493,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25352,7 +25352,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 294,
+					"uid": 1494,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25395,7 +25395,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 295,
+					"uid": 1495,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25438,7 +25438,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 296,
+					"uid": 1496,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25481,7 +25481,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 297,
+					"uid": 1497,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25524,7 +25524,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 298,
+					"uid": 1498,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25567,7 +25567,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 299,
+					"uid": 1499,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25610,7 +25610,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 300,
+					"uid": 1500,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25653,7 +25653,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 301,
+					"uid": 1501,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25696,7 +25696,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 302,
+					"uid": 1502,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25739,7 +25739,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 303,
+					"uid": 1503,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25782,7 +25782,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 304,
+					"uid": 1504,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25825,7 +25825,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 305,
+					"uid": 1505,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25868,7 +25868,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 306,
+					"uid": 1506,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25911,7 +25911,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 307,
+					"uid": 1507,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25954,7 +25954,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 308,
+					"uid": 1508,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -25997,7 +25997,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 309,
+					"uid": 1509,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26040,7 +26040,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 310,
+					"uid": 1510,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26083,7 +26083,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 311,
+					"uid": 1511,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26126,7 +26126,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 312,
+					"uid": 1512,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26169,7 +26169,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 313,
+					"uid": 1513,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26212,7 +26212,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 314,
+					"uid": 1514,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26255,7 +26255,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 315,
+					"uid": 1515,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26298,7 +26298,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 316,
+					"uid": 1516,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26341,7 +26341,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 317,
+					"uid": 1517,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26384,7 +26384,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 318,
+					"uid": 1518,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26427,7 +26427,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 319,
+					"uid": 1519,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26470,7 +26470,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 320,
+					"uid": 1520,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26513,7 +26513,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 321,
+					"uid": 1521,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26556,7 +26556,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 322,
+					"uid": 1522,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26599,7 +26599,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 323,
+					"uid": 1523,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26642,7 +26642,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 324,
+					"uid": 1524,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26685,7 +26685,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 325,
+					"uid": 1525,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26728,7 +26728,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 326,
+					"uid": 1526,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26771,7 +26771,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 327,
+					"uid": 1527,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26814,7 +26814,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 328,
+					"uid": 1528,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26857,7 +26857,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 329,
+					"uid": 1529,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26900,7 +26900,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 330,
+					"uid": 1530,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26943,7 +26943,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 331,
+					"uid": 1531,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -26986,7 +26986,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 332,
+					"uid": 1532,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27029,7 +27029,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 333,
+					"uid": 1533,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27072,7 +27072,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 334,
+					"uid": 1534,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27115,7 +27115,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 335,
+					"uid": 1535,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27158,7 +27158,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 336,
+					"uid": 1536,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27201,7 +27201,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 340,
+					"uid": 1537,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27244,7 +27244,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 342,
+					"uid": 1538,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27287,7 +27287,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 343,
+					"uid": 1539,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27330,7 +27330,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 477,
+					"uid": 1540,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27373,7 +27373,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 484,
+					"uid": 1541,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27416,7 +27416,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 525,
+					"uid": 1542,
 					"instanceVariables": {},
 					"behaviors": {
 						"ProyectorDeSombras": {
@@ -27459,7 +27459,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 142,
+					"uid": 1543,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27502,7 +27502,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 127,
+					"uid": 1544,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27545,7 +27545,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 122,
+					"uid": 1545,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27588,7 +27588,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 128,
+					"uid": 1546,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27631,7 +27631,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 124,
+					"uid": 1547,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27674,7 +27674,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 139,
+					"uid": 1548,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27717,7 +27717,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 131,
+					"uid": 1549,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27760,7 +27760,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 125,
+					"uid": 1550,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27803,7 +27803,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 138,
+					"uid": 1551,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27846,7 +27846,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 153,
+					"uid": 1552,
 					"instanceVariables": {},
 					"behaviors": {
 						"Sólido": {
@@ -27881,7 +27881,7 @@
 					}
 				}
 			],
-			"sid": 283179932790626,
+			"sid": 906782752355615,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -27923,7 +27923,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 101,
+					"uid": 1553,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -27944,7 +27944,7 @@
 					}
 				}
 			],
-			"sid": 996117034321126,
+			"sid": 414247364793998,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -27990,7 +27990,7 @@
 						"image-scale-y": 1,
 						"image-angle": 0
 					},
-					"uid": 5,
+					"uid": 1557,
 					"instanceVariables": {},
 					"behaviors": {
 						"Tweeninterpolación": {
@@ -28025,7 +28025,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 368,
+					"uid": 1558,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28064,7 +28064,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 569,
+					"uid": 1559,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28103,7 +28103,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 570,
+					"uid": 1560,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28142,7 +28142,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 571,
+					"uid": 1561,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28181,7 +28181,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 572,
+					"uid": 1562,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28220,7 +28220,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 573,
+					"uid": 1563,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28259,7 +28259,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 574,
+					"uid": 1564,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28298,7 +28298,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 575,
+					"uid": 1565,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28337,7 +28337,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 576,
+					"uid": 1566,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28376,7 +28376,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 577,
+					"uid": 1567,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28415,7 +28415,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 578,
+					"uid": 1568,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28454,7 +28454,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 579,
+					"uid": 1569,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28493,7 +28493,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 580,
+					"uid": 1570,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28532,7 +28532,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 581,
+					"uid": 1571,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28571,7 +28571,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 614,
+					"uid": 1572,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28610,7 +28610,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 615,
+					"uid": 1573,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28649,7 +28649,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 664,
+					"uid": 1574,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28688,7 +28688,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 665,
+					"uid": 1575,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28727,7 +28727,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 666,
+					"uid": 1576,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28766,7 +28766,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 667,
+					"uid": 1577,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28805,7 +28805,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 668,
+					"uid": 1578,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28844,7 +28844,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 669,
+					"uid": 1579,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28883,7 +28883,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 670,
+					"uid": 1580,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28922,7 +28922,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 671,
+					"uid": 1581,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -28961,7 +28961,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 672,
+					"uid": 1582,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29000,7 +29000,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 673,
+					"uid": 1583,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29039,7 +29039,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 674,
+					"uid": 1584,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29078,7 +29078,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 675,
+					"uid": 1585,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29117,7 +29117,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 676,
+					"uid": 1586,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29156,7 +29156,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 677,
+					"uid": 1587,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29195,7 +29195,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 678,
+					"uid": 1588,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29234,7 +29234,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 679,
+					"uid": 1589,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29273,7 +29273,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 680,
+					"uid": 1590,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29312,7 +29312,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 681,
+					"uid": 1591,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29351,7 +29351,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 682,
+					"uid": 1592,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29390,7 +29390,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 683,
+					"uid": 1593,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29429,7 +29429,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 684,
+					"uid": 1594,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29468,7 +29468,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 685,
+					"uid": 1595,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29507,7 +29507,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 686,
+					"uid": 1596,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29546,7 +29546,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 687,
+					"uid": 1597,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29585,7 +29585,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 688,
+					"uid": 1598,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29624,7 +29624,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 689,
+					"uid": 1599,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29663,7 +29663,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 690,
+					"uid": 1600,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29702,7 +29702,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 691,
+					"uid": 1601,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29741,7 +29741,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 692,
+					"uid": 1602,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29780,7 +29780,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 693,
+					"uid": 1603,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29819,7 +29819,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 732,
+					"uid": 1604,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29858,7 +29858,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 733,
+					"uid": 1605,
 					"instanceVariables": {
 						"tamañox": 350,
 						"tamañoy": 350
@@ -29889,7 +29889,7 @@
 					}
 				}
 			],
-			"sid": 449654623459462,
+			"sid": 727091856370705,
 			"effectTypes": [
 				{
 					"effectId": "multiply",
@@ -29939,7 +29939,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 369,
+					"uid": 1554,
 					"instanceVariables": {},
 					"behaviors": {
 						"Girar": {
@@ -29977,7 +29977,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 370,
+					"uid": 1555,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -30019,7 +30019,7 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 164,
+					"uid": 1556,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -30042,7 +30042,7 @@
 				{
 					"type": "Escena",
 					"properties": {
-						"text": "ESCENA 1",
+						"text": "ESCENA 2",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 12,
@@ -30061,12 +30061,12 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 1607,
+					"uid": 1606,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 293.27536857963844,
-						"y": 36.81654469977735,
+						"x": 297.5263671875,
+						"y": 44.26487350463867,
 						"width": 83.90053474134913,
 						"height": 21.455883509103614,
 						"originX": 0,
@@ -30082,7 +30082,7 @@
 					}
 				}
 			],
-			"sid": 625859474827841,
+			"sid": 505229953023376,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -30111,7 +30111,7 @@
 			"global": false
 		}
 	],
-	"sid": 411297617841746,
+	"sid": 780399221016111,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 11520,

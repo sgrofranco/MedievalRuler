@@ -158,7 +158,11 @@
 			"Disco",
 			"ElojDiaNOche",
 			"Horario",
-			"cantera"
+			"cantera",
+			"tittle",
+			"background",
+			"start",
+			"Escena"
 		],
 		"subfolders": [
 			{
@@ -215,7 +219,8 @@
 				"items": [
 					"PuntosDeRefencia",
 					"PuntosDeRefenciaCerdo",
-					"PuntosDeRefenciaVaca"
+					"PuntosDeRefenciaVaca",
+					"PuntosDeRefenciaWorker"
 				],
 				"subfolders": [],
 				"name": "PuntosDeReferncia"
@@ -245,13 +250,16 @@
 	},
 	"layouts": {
 		"items": [
-			"Escena 1"
+			"Escena 1",
+			"Menu",
+			"Escena 2"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Hoja de eventos 1"
+			"Logica Juego",
+			"Logica Menu"
 		],
 		"subfolders": []
 	},
@@ -404,5 +412,5 @@
 	},
 	"viewportWidth": 1920,
 	"viewportHeight": 1080,
-	"firstLayout": null
+	"firstLayout": "Menu"
 }
