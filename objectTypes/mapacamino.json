@@ -44,7 +44,50 @@
 					}
 				],
 				"sid": 149411606895203,
-				"name": "Animation 1",
+				"name": "Camino 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 11520,
+						"height": 7680,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2505867,
+						"collisionPoly": {
+							"points": [
+								0.6663194444444445,
+								0.5,
+								0.6658854166666667,
+								0.4986979166666667,
+								0.5,
+								0.820703125,
+								0.00008680555555551361,
+								0.9998697916666667,
+								0.15173611111111107,
+								0.5,
+								0.00008680555555551361,
+								0,
+								0.5,
+								0.17421875,
+								1,
+								0
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 384856762606845,
+				"name": "Camino 2",
 				"isLooping": false,
 				"isPingPong": false,
 				"repeatCount": 1,

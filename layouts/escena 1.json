@@ -10,7 +10,7 @@
 					"type": "MapaCamino",
 					"properties": {
 						"initially-visible": true,
-						"initial-animation": "Animation 1",
+						"initial-animation": "Camino 1",
 						"initial-frame": 0,
 						"enable-collisions": true,
 						"live-preview": false
@@ -19309,6 +19309,122 @@
 					"world": {
 						"x": 9313,
 						"y": 3646,
+						"width": 50,
+						"height": 50,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "PuntosDeRefenciaWorker",
+					"properties": {
+						"initially-visible": false,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 1608,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 4547,
+						"y": 5171,
+						"width": 50,
+						"height": 50,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "PuntosDeRefenciaWorker",
+					"properties": {
+						"initially-visible": false,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 1609,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 4195,
+						"y": 5201,
+						"width": 50,
+						"height": 50,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "PuntosDeRefenciaWorker",
+					"properties": {
+						"initially-visible": false,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 1610,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 4138,
+						"y": 4972,
+						"width": 50,
+						"height": 50,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "PuntosDeRefenciaWorker",
+					"properties": {
+						"initially-visible": false,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 1611,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 4330,
+						"y": 5061,
 						"width": 50,
 						"height": 50,
 						"originX": 0.5,
